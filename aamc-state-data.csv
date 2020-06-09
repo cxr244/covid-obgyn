@@ -1,0 +1,53 @@
+region,state,Number,Over60
+alabama,AL,9205,36
+alaska,AK,7449,31.3
+arizona,AZ,9375,33.6
+arkansas,AR,10880,31
+california,CA,7737,35.9
+colorado,CO,7494,27.5
+connecticut,CT,5698,32.9
+delaware,DE,7737,30.4
+district of columbia,DC,2939,27.6
+florida,FL,8435,36.8
+georgia,GA,7707,31.3
+hawaii,HI,6019,30.9
+idaho,ID,10762,30.1
+illinois,IL,7264,29.4
+indiana,IN,9092,26.9
+iowa,IA,11272,28.3
+kansas,KS,9903,28.3
+kentucky,KY,9009,31.3
+louisiana,LA,7050,32.7
+maine,ME,8063,34.3
+maryland,MD,5637,31.5
+massachusetts,MA,6624,29.8
+michigan,MI,7743,30.4
+minnesota,MN,8120,25.8
+mississippi,MS,9333,32.5
+missouri,MO,8427,27
+montana,MT,9080,32.5
+nebraska,NE,9231,29.7
+nevada,NV,9949,32.1
+new hampshire,NH,7494,30.4
+new jersey,NJ,6536,34.5
+new mexico,NM,9482,36.7
+new york,NY,5936,34
+north carolina,NC,8049,27.1
+north dakota,ND,10412,26
+ohio,OH,8012,28.5
+oklahoma,OK,11076,33.4
+oregon,OR,7067,26.9
+pennsylvania,PA,7578,32.2
+puerto rico,PR,7312,52.2
+rhode island,RI,5594,27.5
+south carolina,SC,8488,32.6
+south dakota,SD,9287,27.4
+tennessee,TN,7918,34.4
+texas,TX,8676,28.8
+utah,UT,9325,29.8
+vermont,VT,6022,27.9
+virginia,VA,7736,31.4
+washington,WA,8652,29.6
+west virginia,WV,8984,32.3
+wisconsin,WI,9377,24.5
+wyoming,WY,7807,28.4
