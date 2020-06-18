@@ -95,6 +95,9 @@ ObGynCovid <- ObGynCovid %>% rename(State = region) %>%
 
 #Create high risk states and low risk states table
 HighRiskStates <- head(ObGynCovid, 5)
-print(HighRiskStates)
 LowRiskStates <- tail(ObGynCovid, 5)
-print(LowRiskStates)
+
+#Create ggplot tables and save as "RiskTable.png"
+tbl1 <- ggplot() + annotation_custom(tableGrob(HighRiskStates, rows = NULL)) + ggtitle('High Risk States')
+tbl2 <- ggplot() + annotation_custom(tableGrob(LowRiskStates, rows = NULL)) + ggtitle('Low Risk States')
+ggsave(grid.arrange(tbl1, tbl2), filename = "RiskTable.png", width = 4.8, height = 4.15)
