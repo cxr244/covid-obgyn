@@ -58,19 +58,19 @@ state_data <- left_join(states_pleth, pcare, by = "region")
 ggplot() +
   # map w/ states colored by # `physicians over 60` per 100K population
   geom_polygon(data = state_data,
-               aes(x = long, y = lat, group = group, fill = Risk),
+               aes(x = long, y = lat, group = group, fill = Over60),
                color = "black") +
-  scale_fill_gradient("Risk Level of Ob/Gyns over 60", low = "lightblue", high = "darkblue", breaks=c(3,4,5),labels=c("Low","Medium","High")) +
+  scale_fill_gradient("Percentage of Ob/Gyns over 60", low = "lightblue", high = "darkblue", breaks = c(27,30,33,36), labels=c("27%","30%","33%", "36%")) +
   # bubbles w/ log(COVID cases)
   geom_point(data = MergedStates,
              aes(x = Longitude, y = Latitude, size = cases),
              colour = "firebrick2", alpha = 0.45, shape=20) +
-  scale_size_continuous("Covid Cases (hundred thousands)",
+  scale_size_continuous("SARS-CoV-2 Cases",
                         range = c(0.1, 20),
                         breaks = 50000 * c(1, 2, 4, 6, 8),
-                        labels = c("< 51", "51-100",
-                                   "101-200", "201-300",
-                                   "301-400")) +
+                        labels = c("< 51,000", "51-100,000",
+                                   "101-200,000", "201-300,000",
+                                   "301-400,000")) +
   # remove elements we don't need
   theme(axis.title = element_blank(),
         axis.text = element_blank(),
