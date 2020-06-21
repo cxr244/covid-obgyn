@@ -1,15 +1,28 @@
 aamc-state-data.csv: contains data obtained from AAMC Physician Workforce Profile
 	- URL: https://www.aamc.org/data-reports/workforce/data/2019-state-profiles
 	- format: comma separated values
-	- column region: full name of U.S. state
-	- column state: abbreviation of U.S. state
-	- column Number: # of people per Ob/Gyn physician (2018)
-	- column Over60: proportion of practicing Ob/Gyn physicians over the age of 60
+	- column 'region': full name of U.S. state
+	- column 'state': abbreviation of U.S. state
+	- column 'Physicians': total number of OBGYN physicians in state
+	- column 'Number': # of people per Ob/Gyn physician (2018)
+	- column 'Over60': proportion of practicing Ob/Gyn physicians over the age of 60
 	
 covid-confirmed.csv
 	- URL: https://github.com/CSSEGISandData/COVID-19/
 	- format: comma separated values
-	- column Long_: geographical longitude
-	- column Lat: geographical latitude
+	- column 'Province_State': full name of U.S. state
 	- column `6/4/2020`: cumulative cases of SARS-CoV-2 infection
-	- remaining columns are ignored
+
+usa_lat_long.csv
+	- URL: https://www.latlong.net/category/states-236-14.html
+	- format: comma separated values
+	- column 'region': full name of U.S. state
+	- column 'Latitude': geographical longitude
+	- column 'Longitude': geographical latitude
+
+state_birth.csv
+	- URL: https://www.cdc.gov/nchs/fastats/state-and-territorial-data.htm
+	- format: comma separated values
+	- column 'region': full name of U.S. state
+	- column 'births': total births per state in 2018
+
