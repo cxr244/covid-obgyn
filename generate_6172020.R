@@ -3,17 +3,23 @@ suppressPackageStartupMessages(library("readr"))
 suppressPackageStartupMessages(library("dplyr"))
 suppressPackageStartupMessages(library("ggplot2"))
 suppressPackageStartupMessages(library("maps"))
+suppressPackageStartupMessages(library("gridExtra"))
+suppressPackageStartupMessages(library("DT"))
 
+
+ 
 #####INPUT#####
-pcare <- read_csv("aamc-state-data.csv")
+obgyn <- read_csv("aamc-state-data.csv")
 covid <- read_csv("covid-confirmed.csv")
 lat_long <- read_csv("usa_lat_long.csv")
+state_births <- read_csv("state_births.csv")
 
 #####PROCESS#####
-# pcare:
+# obgyn:
 #   - add column for # of physicians over 60 per 100K population
 #   - only select states that can be plotted (remove DC, PR)
-pcare <- pcare %>%
+#   - Adjusted number if the number of physicians per 100,000 people in the state
+obgyn <- obgyn %>%
   mutate(Adjust_Num = 1 / Number * 100000,
          Risk = Adjust_Num * Over60 / 100) %>%
   filter(!(state %in% c("DC", "PR")))
@@ -29,19 +35,25 @@ pcare <- pcare %>%
 covid <- rename(covid, region = Province_State)
 covid <- covid %>%
   select(region, `6/4/2020`) %>%
-  filter(`6/4/2020` > 0) %>%
-  mutate(LogCases = log10(`6/4/2020`))
+  filter(`6/4/2020` > 0)
 covid <- rename(covid, cases = "6/4/2020")
-covid <- covid[-c(1,2,3,4,305),]
+covid <- covid %>% mutate(region = tolower(region)) 
+covid <- covid[!covid$"region" == "guam",  ]
+covid <- covid[!covid$"region" == "northern mariana islands",  ]
+covid <- covid[!covid$"region" == "puerto rico",  ]
+covid <- covid[!covid$"region" == "virgin islands",  ]
+covid <- covid[!covid$"region" == "district of columbia",  ]
+covid <- covid[!covid$"region" == "grand princess",  ]
+covid <- covid[!covid$"region" == "diamond princess",  ]
 covid <- covid %>% group_by(region) %>%
-  summarize(cases = sum(cases),
-            Logcases = sum(LogCases))
-covid <- covid %>% mutate(region = tolower(region))
+  summarize(cases = sum(cases)) 
+covid$Logcases <- log(covid[,"cases"])
 
 
 # prepare map data
 lat_long <- lat_long %>% mutate(region = tolower(region))
-lat_long <- lat_long[-c(24,25),]
+lat_long <- lat_long[!lat_long$"region" == "alaska",  ]
+lat_long <- lat_long[!lat_long$"region" == "hawaii",  ]
 
 # Use the dplyr package to merge the states_pleth and covid files to assign a longitude and latitude for each state
 MergedStates <- merge(lat_long, covid, by = "region")
@@ -51,7 +63,7 @@ MergedStates <- MergedStates[order(MergedStates$cases),]
 
 # prepare map data
 states_pleth <- map_data("state")
-state_data <- left_join(states_pleth, pcare, by = "region")
+state_data <- left_join(states_pleth, obgyn, by = "region")
 
 #####VISUALIZE & SAVE#####
 ## bubble map of 50 U.S. states
@@ -60,7 +72,7 @@ ggplot() +
   geom_polygon(data = state_data,
                aes(x = long, y = lat, group = group, fill = Over60),
                color = "black") +
-  scale_fill_gradient("Percentage of Ob/Gyns over 60", low = "lightblue", high = "darkblue", breaks = c(27,30,33,36), labels=c("27%","30%","33%", "36%")) +
+  scale_fill_gradient("Percentage of OBGYNs over 60", low = "lightblue", high = "darkblue", breaks = c(27,30,33,36), labels=c("27%","30%","33%", "36%")) +
   # bubbles w/ log(COVID cases)
   geom_point(data = MergedStates,
              aes(x = Longitude, y = Latitude, size = cases),
@@ -83,21 +95,33 @@ ggsave(filename = "BubbleMap.png",
        width = 8, height = 4)
 
 #Merge covid table with ObGyn over 60 table
+#Merge new table with births table 
+#create new column for births per physician
+#create new column for covid individuals per physician (/2 for only females)
 #order from high risk states to low risk states
 #Rename columns
 #Create table with top 5 states and bottom 5 states
-ObGynCovid <- merge(pcare, covid, by = "region")
-ObGynCovid <- ObGynCovid[with(ObGynCovid, order(-Risk, -Logcases)), ]
-ObGynCovid <- ObGynCovid %>% rename(State = region) %>% 
-    rename("Percentage of Ob/Gyns over 60" = "Over60") %>%
-    rename("Covid Cases" = "cases") %>%
-    select(, c(1,4,7))
+ObGynCovid <- merge(obgyn, covid, by = "region")
+ObGynCovid <- merge(ObGynCovid, state_births, by = "region")
+ObGynCovid[, "BirthsperOBGYN"] <- ObGynCovid[, "total births"] / ObGynCovid[, "Physicians"]
+ObGynCovid[, "COVIDperOBGYN"] <- ObGynCovid[, "cases"] / ObGynCovid[, "Physicians"]
+ObGynCovid <- transform(ObGynCovid, COVIDperOBGYN=COVIDperOBGYN/2)
 
+ObGynCovid <- ObGynCovid[with(ObGynCovid, order(-Risk, -Logcases, -BirthsperOBGYN, -COVIDperOBGYN)), ]
+ObGynCovid <- ObGynCovid %>% select(region, Over60, cases, BirthsperOBGYN, COVIDperOBGYN)
+ObGynCovid <- ObGynCovid %>% rename(State = region) %>% 
+  rename("Percentage of OBGYNs over 60" = "Over60") %>%
+  rename("Covid Cases" = "cases") %>% 
+  rename("Births per OBGYN" = "BirthsperOBGYN") %>%
+  rename("COVID per OBGYN" = "COVIDperOBGYN") 
+
+  
 #Create high risk states and low risk states table
 HighRiskStates <- head(ObGynCovid, 5)
+#print(HighRiskStates)
 LowRiskStates <- tail(ObGynCovid, 5)
+#print(LowRiskStates)
 
-#Create ggplot tables and save as "RiskTable.png"
 tbl1 <- ggplot() + annotation_custom(tableGrob(HighRiskStates, rows = NULL)) + ggtitle('High Risk States')
 tbl2 <- ggplot() + annotation_custom(tableGrob(LowRiskStates, rows = NULL)) + ggtitle('Low Risk States')
-ggsave(grid.arrange(tbl1, tbl2), filename = "RiskTable.png", width = 4.8, height = 4.15)
+ggsave(grid.arrange(tbl1, tbl2), filename = "RiskTable.png", width = 10, height = 5)
