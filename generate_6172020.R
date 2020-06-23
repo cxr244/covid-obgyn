@@ -50,12 +50,9 @@ lat_long <- lat_long %>%
 # merge datasets for bubble plot data (log covid cases represented by bubble radius)
 bubble_data <- merge(lat_long, covid)
 
-#arrange states to be lowest to highest in covid cases
-MergedStates <- MergedStates[order(MergedStates$cases),]
-
 # prepare map data
 states_pleth <- map_data("state")
-state_data <- left_join(states_pleth, obgyn, by = "region")
+state_data <- left_join(states_pleth, obgyn)
 
 #####VISUALIZE & SAVE#####
 ## bubble map of 50 U.S. states
