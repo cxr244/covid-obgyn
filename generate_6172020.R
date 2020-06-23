@@ -47,8 +47,8 @@ lat_long <- lat_long %>%
   mutate(region = tolower(region)) %>%
   filter(region %in% obgyn$region)
 
-# Use the dplyr package to merge the states_pleth and covid files to assign a longitude and latitude for each state
-MergedStates <- merge(lat_long, covid, by = "region")
+# merge datasets for bubble plot data (log covid cases represented by bubble radius)
+bubble_data <- merge(lat_long, covid)
 
 #arrange states to be lowest to highest in covid cases
 MergedStates <- MergedStates[order(MergedStates$cases),]
