@@ -11,6 +11,7 @@ obgyn <- read_csv("aamc-state-data.csv")
 covid <- read_csv("covid-confirmed.csv")
 lat_long <- read_csv("usa_lat_long.csv")
 state_births <- read_csv("state_births.csv")
+state_sex <- read_csv("state_sex.csv")
 
 #####PROCESS#####
 # obgyn:
@@ -18,7 +19,7 @@ state_births <- read_csv("state_births.csv")
 #   - only select states that can be plotted (remove DC, PR)
 #   - Adjusted number if the number of physicians per 100,000 people in the state
 obgyn <- obgyn %>%
-  mutate(Adjust_Num = 1 / Number * 100000,
+  mutate(Adjust_Num = 1 / pts_per_obgyn * 100000,
          Risk = Adjust_Num * Over60 / 100) %>%
   filter(!(state %in% c("DC", "PR", "AK", "HI")))
 
@@ -47,6 +48,13 @@ lat_long <- lat_long %>%
   mutate(region = tolower(region)) %>%
   filter(region %in% obgyn$region)
 
+# state_sex:
+#   - filter for states in continental U.S.
+#   - use Male/Female ratio (`mf_ratio`) to calculate proportion Female (`female`)
+state_sex <- state_sex %>%
+  filter(region %in% obgyn$region) %>%
+  mutate(female = 100 - (100 * mf_ratio / (mf_ratio + 1)))
+
 # merge datasets for bubble plot data (log covid cases represented by bubble radius)
 bubble_data <- left_join(lat_long, covid)
 
@@ -66,7 +74,7 @@ ggplot() +
   geom_point(data = bubble_data,
              aes(x = Longitude, y = Latitude, size = cases),
              colour = "firebrick2", alpha = 0.45, shape=20) +
-  scale_size_continuous("# cases",
+  scale_size_continuous("Confirmed cases",
                         range = c(1, 15),
                         breaks = 50000 * c(1, 2, 4, 6, 8),
                         labels = c("50K", "100K",
@@ -83,15 +91,18 @@ ggplot() +
 ggsave(filename = "BubbleMap.png",
        width = 8, height = 4)
 
+#####MEGA TABLE#####
 #Merge covid table with ObGyn over 60 table
 #Merge new table with births table 
 #create new column for births per physician
-#create new column for covid individuals per physician (/2 for only females)
+#create new column for covid individuals per physician (use state_sex for only females)
 #order from high risk states to low risk states
 #Rename columns
 #Create table with top 5 states and bottom 5 states
-ObGynCovid <- merge(obgyn, covid, by = "region")
-ObGynCovid <- merge(ObGynCovid, state_births, by = "region")
+mega_table <- left_join(obgyn, covid) %>%
+  left_join(state_births) %>%
+  mutate(births_per_ob = total_births / num_ob)
+
 ObGynCovid[, "BirthsperOBGYN"] <- ObGynCovid[, "total births"] / ObGynCovid[, "Physicians"]
 ObGynCovid[, "COVIDperOBGYN"] <- ObGynCovid[, "cases"] / ObGynCovid[, "Physicians"]
 ObGynCovid <- transform(ObGynCovid, COVIDperOBGYN=COVIDperOBGYN/2)
