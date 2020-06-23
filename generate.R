@@ -46,7 +46,7 @@ lat_long <- read_csv("usa_lat_long.csv") %>%
 #   - use Male/Female ratio (`mf_ratio`) to calculate proportion Female (`female`)
 state_sex <- read_csv("state_sex.csv") %>%
   filter(region %in% obgyn$region) %>%
-  mutate(female = 100 - (100 * mf_ratio / (mf_ratio + 1)))
+  mutate(female = 1 - (mf_ratio / (mf_ratio + 1)))
 
 # merge datasets for bubble plot data (log covid cases represented by bubble radius)
 bubble_data <- left_join(lat_long, covid)
