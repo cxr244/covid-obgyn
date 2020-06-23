@@ -27,7 +27,7 @@ state_births.csv
 	- column 'total_births': total births per state in 2018
 
 state_sex.csv
-	- URL: 
+	- URL: https://data.census.gov/cedsci/table?q=S0101&g=0100000US.04000.001,&hidePreview=true&table=S0101&tid=ACSST1Y2018.S0101&lastDisplayedRow=30&vintage=2018&moe=false
 	- format: comma separated values
 	- column 'region': full name of U.S. state
 	- column 'mf_ratio': ratio of males to females in state
