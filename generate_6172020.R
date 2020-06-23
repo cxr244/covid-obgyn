@@ -6,8 +6,6 @@ suppressPackageStartupMessages(library("maps"))
 suppressPackageStartupMessages(library("gridExtra"))
 suppressPackageStartupMessages(library("DT"))
 
-
- 
 #####INPUT#####
 obgyn <- read_csv("aamc-state-data.csv")
 covid <- read_csv("covid-confirmed.csv")
@@ -25,30 +23,22 @@ obgyn <- obgyn %>%
   filter(!(state %in% c("DC", "PR")))
 
 # covid:
-#   - rename "Province_State" column as "region"
+#   - rename `Province_State` column to `region` (and make lowercase in process)
+#   - rename `6/4/2020` to `cases`
 #   - only select date column that will actually be used
 #   - remove rows w/ zero cases (won't be plotted anyway, won't cause logarithm issues)
-#   - remove rows not in continental United States. Remove DC
+#   - remove rows not in continental United States. Remove DC, puerto rico, etc.
+#   - aggregate (sum) cases by state (`region`)
 #   - take logarithm to make bubbles more aesthetically pleasing
-#   - take the sum of "cases" and "LogCases" for each state
-#   - make state names lowercase 
-covid <- rename(covid, region = Province_State)
 covid <- covid %>%
-  select(region, `6/4/2020`) %>%
-  filter(`6/4/2020` > 0)
-covid <- rename(covid, cases = "6/4/2020")
-covid <- covid %>% mutate(region = tolower(region)) 
-covid <- covid[!covid$"region" == "guam",  ]
-covid <- covid[!covid$"region" == "northern mariana islands",  ]
-covid <- covid[!covid$"region" == "puerto rico",  ]
-covid <- covid[!covid$"region" == "virgin islands",  ]
-covid <- covid[!covid$"region" == "district of columbia",  ]
-covid <- covid[!covid$"region" == "grand princess",  ]
-covid <- covid[!covid$"region" == "diamond princess",  ]
-covid <- covid %>% group_by(region) %>%
-  summarize(cases = sum(cases)) 
-covid$Logcases <- log(covid[,"cases"])
-
+  mutate(region = tolower(Province_State), Province_State = NULL,
+         cases = `6/4/2020`) %>%
+  select(region, cases) %>%
+  filter(cases > 0,
+         region %in% obgyn$region) %>%
+  group_by(region) %>%
+  summarize(cases = sum(cases)) %>%
+  mutate(logcases = log(cases))
 
 # prepare map data
 lat_long <- lat_long %>% mutate(region = tolower(region))
