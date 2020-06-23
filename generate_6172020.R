@@ -27,7 +27,7 @@ obgyn <- obgyn %>%
 #   - rename `6/4/2020` to `cases`
 #   - only select date column that will actually be used
 #   - remove rows w/ zero cases (won't be plotted anyway, won't cause logarithm issues)
-#   - remove rows not in continental United States. Remove DC, puerto rico, etc.
+#   - remove states not in continental U.S.
 #   - aggregate (sum) cases by state (`region`)
 #   - take logarithm to make bubbles more aesthetically pleasing
 covid <- covid %>%
@@ -40,10 +40,12 @@ covid <- covid %>%
   summarize(cases = sum(cases)) %>%
   mutate(logcases = log(cases))
 
-# prepare map data
-lat_long <- lat_long %>% mutate(region = tolower(region))
-lat_long <- lat_long[!lat_long$"region" == "alaska",  ]
-lat_long <- lat_long[!lat_long$"region" == "hawaii",  ]
+# lat_long:
+#   - make state names (`region`) lowercase
+#   - remove states not in continental U.S.
+lat_long <- lat_long %>%
+  mutate(region = tolower(region)) %>%
+  filter(region %in% obgyn$region)
 
 # Use the dplyr package to merge the states_pleth and covid files to assign a longitude and latitude for each state
 MergedStates <- merge(lat_long, covid, by = "region")
