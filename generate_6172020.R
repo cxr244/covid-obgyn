@@ -6,19 +6,12 @@ suppressPackageStartupMessages(library("maps"))
 suppressPackageStartupMessages(library("gridExtra"))
 suppressPackageStartupMessages(library("DT"))
 
-#####INPUT#####
-obgyn <- read_csv("aamc-state-data.csv")
-covid <- read_csv("covid-confirmed.csv")
-lat_long <- read_csv("usa_lat_long.csv")
-state_births <- read_csv("state_births.csv")
-state_sex <- read_csv("state_sex.csv")
-
-#####PROCESS#####
+#####INPUT & PROCESS#####
 # obgyn:
 #   - add column for # of physicians over 60 per 100K population
 #   - only select states that can be plotted (remove DC, PR)
 #   - Adjusted number if the number of physicians per 100,000 people in the state
-obgyn <- obgyn %>%
+obgyn <- read_csv("aamc-state-data.csv") %>%
   mutate(Adjust_Num = 1 / pts_per_obgyn * 100000,
          Risk = Adjust_Num * Over60 / 100) %>%
   filter(!(state %in% c("DC", "PR", "AK", "HI")))
@@ -31,7 +24,7 @@ obgyn <- obgyn %>%
 #   - remove states not in continental U.S.
 #   - aggregate (sum) cases by state (`region`)
 #   - take logarithm to make bubbles more aesthetically pleasing
-covid <- covid %>%
+covid <- read_csv("covid-confirmed.csv") %>%
   mutate(region = tolower(Province_State), Province_State = NULL,
          cases = `6/4/2020`) %>%
   select(region, cases) %>%
@@ -44,14 +37,14 @@ covid <- covid %>%
 # lat_long:
 #   - make state names (`region`) lowercase
 #   - remove states not in continental U.S.
-lat_long <- lat_long %>%
+lat_long <- read_csv("usa_lat_long.csv") %>%
   mutate(region = tolower(region)) %>%
   filter(region %in% obgyn$region)
 
 # state_sex:
 #   - filter for states in continental U.S.
 #   - use Male/Female ratio (`mf_ratio`) to calculate proportion Female (`female`)
-state_sex <- state_sex %>%
+state_sex <- read_csv("state_sex.csv") %>%
   filter(region %in% obgyn$region) %>%
   mutate(female = 100 - (100 * mf_ratio / (mf_ratio + 1)))
 
@@ -92,36 +85,41 @@ ggsave(filename = "BubbleMap.png",
        width = 8, height = 4)
 
 #####MEGA TABLE#####
-#Merge covid table with ObGyn over 60 table
-#Merge new table with births table 
-#create new column for births per physician
-#create new column for covid individuals per physician (use state_sex for only females)
-#order from high risk states to low risk states
-#Rename columns
-#Create table with top 5 states and bottom 5 states
+# read state-level birth data in preparation for later use
+state_births <- read_csv("state_births.csv")
+
+# merge state-level covid cases with state-level workforce data
+# merge previous table w/ state-level birth data
+# merge previous table w/ state-level sex distribution data
+# create column for births per obgyn (state-level)
+# create column for confirmed covid+ cases per obgyn (adjusted for female proportion)
+# calculate # obgyn over 60 (state-level)
+# calculate # births per obgyn > 60 yo
+# calculate # confirmed cases per obgyn > 60 yo (adjusted for female population)
+# calculate # obgyn under 60 yo
+# calculate # births per obgyn < 60 yo
+# calculate # confirmed cases per obgyn < 60 yo (adjusted for female population)
+# rename `region` to `state` for readability
+# remove unused columns (or directly from data source)
+# save to file
 mega_table <- left_join(obgyn, covid) %>%
   left_join(state_births) %>%
-  mutate(births_per_ob = total_births / num_ob)
+  left_join(state_sex) %>%
+  mutate(births_per_ob = total_births / num_ob,
+         covid_per_ob = cases / num_ob * female,
+         num_ob_over60 = num_ob * Over60 / 100,
+         births_per_over60 = total_births / num_ob_over60,
+         covid_per_over60 = cases / num_ob_over60 * female,
+         num_ob_under60 = num_ob - num_ob_over60,
+         births_per_under60 = total_births / num_ob_under60,
+         covid_per_under60 = cases / num_ob_under60 * female) %>%
+  rename(State = region) %>%
+  select(-state, -pts_per_obgyn, -num_ob, -Over60, -Adjust_Num, -Risk,
+         -cases, -logcases, -total_births, -mf_ratio, -female) %>%
+  write_csv(path = "mega-table.csv")
 
-ObGynCovid[, "BirthsperOBGYN"] <- ObGynCovid[, "total births"] / ObGynCovid[, "Physicians"]
-ObGynCovid[, "COVIDperOBGYN"] <- ObGynCovid[, "cases"] / ObGynCovid[, "Physicians"]
-ObGynCovid <- transform(ObGynCovid, COVIDperOBGYN=COVIDperOBGYN/2)
-
-ObGynCovid <- ObGynCovid[with(ObGynCovid, order(-Risk, -Logcases, -BirthsperOBGYN, -COVIDperOBGYN)), ]
-ObGynCovid <- ObGynCovid %>% select(region, Over60, cases, BirthsperOBGYN, COVIDperOBGYN)
-ObGynCovid <- ObGynCovid %>% rename(State = region) %>% 
-  rename("Percentage of OBGYNs over 60" = "Over60") %>%
-  rename("Covid Cases" = "cases") %>% 
-  rename("Births per OBGYN" = "BirthsperOBGYN") %>%
-  rename("COVID per OBGYN" = "COVIDperOBGYN") 
-
-  
-#Create high risk states and low risk states table
-HighRiskStates <- head(ObGynCovid, 5)
-#print(HighRiskStates)
-LowRiskStates <- tail(ObGynCovid, 5)
-#print(LowRiskStates)
-
-tbl1 <- ggplot() + annotation_custom(tableGrob(HighRiskStates, rows = NULL)) + ggtitle('High Risk States')
-tbl2 <- ggplot() + annotation_custom(tableGrob(LowRiskStates, rows = NULL)) + ggtitle('Low Risk States')
-ggsave(grid.arrange(tbl1, tbl2), filename = "RiskTable.png", width = 10, height = 5)
+# code to create table image (cannot use for manuscript b/c need
+#   text-editable tables in MS Word and need to decide metric to sort by)
+#tbl1 <- ggplot() + annotation_custom(tableGrob(HighRiskStates, rows = NULL)) + ggtitle('High Risk States')
+#tbl2 <- ggplot() + annotation_custom(tableGrob(LowRiskStates, rows = NULL)) + ggtitle('Low Risk States')
+#ggsave(grid.arrange(tbl1, tbl2), filename = "RiskTable.png", width = 10, height = 5)
