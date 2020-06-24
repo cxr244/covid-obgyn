@@ -3,8 +3,6 @@ suppressPackageStartupMessages(library("readr"))
 suppressPackageStartupMessages(library("dplyr"))
 suppressPackageStartupMessages(library("ggplot2"))
 suppressPackageStartupMessages(library("maps"))
-suppressPackageStartupMessages(library("gridExtra"))
-suppressPackageStartupMessages(library("DT"))
 
 #####INPUT & PROCESS#####
 # obgyn:
