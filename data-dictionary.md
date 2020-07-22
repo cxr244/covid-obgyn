@@ -1,4 +1,4 @@
-All data was downloaded from source URLs on 21 June 2020.
+All data was downloaded from source URLs on 22 July 2020.
 
 ## aamc-state-data.csv
 
@@ -13,7 +13,7 @@ Contains data obtained from AAMC Physician Workforce Profile.
 	
 ## covid-confirmed.csv
 
-*enter short description*
+Contains COVID-19 data obtained from John Hopkins University
 * URL: https://github.com/CSSEGISandData/COVID-19/
 * format: comma separated values
 * column 'Province_State': full name of U.S. state
@@ -21,7 +21,7 @@ Contains data obtained from AAMC Physician Workforce Profile.
 
 ## usa_lat_long.csv
 
-*enter short description*
+Latitude and longitude coordinates for US continental states 
 * URL: https://www.latlong.net/category/states-236-14.html
 * format: comma separated values
 * column 'region': full name of U.S. state
@@ -30,7 +30,7 @@ Contains data obtained from AAMC Physician Workforce Profile.
 
 ## state_births.csv
 
-*enter short description*
+2018 total births per state reported by US Census Bureau
 * URL: https://www.cdc.gov/nchs/fastats/state-and-territorial-data.htm
 * format: comma separated values
 * column 'region': full name of U.S. state
@@ -38,7 +38,15 @@ Contains data obtained from AAMC Physician Workforce Profile.
 
 ## state_sex.csv
 
-*enter short description*
+2018 ratio of males to females per state reported by US Census Bureau
+* URL: https://data.census.gov/cedsci/table?q=S0101&g=0100000US.04000.001,&hidePreview=true&table=S0101&tid=ACSST1Y2018.S0101&lastDisplayedRow=30&vintage=2018&moe=false
+* format: comma separated values
+* column 'region': full name of U.S. state
+* column 'mf_ratio': ratio of males to females in state
+
+## state_population.csv
+
+2018 state populations reported by US Census Bureau
 * URL: https://data.census.gov/cedsci/table?q=S0101&g=0100000US.04000.001,&hidePreview=true&table=S0101&tid=ACSST1Y2018.S0101&lastDisplayedRow=30&vintage=2018&moe=false
 * format: comma separated values
 * column 'region': full name of U.S. state
