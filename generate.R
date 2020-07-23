@@ -26,7 +26,7 @@ obgyn <- read_csv("aamc-state-data.csv") %>%
 #   - create new column for logarithm of cases
 covid <- read_csv("covid-confirmed.csv") %>%
   mutate(region = tolower(Province_State), Province_State = NULL,
-         cases = `6/21/20`) %>%
+         cases = `7/22/2020`) %>%
   select(region, cases) %>%
   filter(cases > 0,
          region %in% obgyn$region) %>%
