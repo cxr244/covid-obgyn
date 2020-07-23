@@ -1,3262 +1,3341 @@
-"Province_State","6/21/20"
-"American Samoa",0
-"Guam",222
-"Northern Mariana Islands",30
-"Puerto Rico",6525
-"Virgin Islands",76
-"Alabama",428
-"Alabama",415
-"Alabama",271
-"Alabama",124
-"Alabama",146
-"Alabama",324
-"Alabama",574
-"Alabama",205
-"Alabama",507
-"Alabama",56
-"Alabama",159
-"Alabama",185
-"Alabama",215
-"Alabama",32
-"Alabama",22
-"Alabama",313
-"Alabama",297
-"Alabama",138
-"Alabama",50
-"Alabama",223
-"Alabama",114
-"Alabama",302
-"Alabama",202
-"Alabama",628
-"Alabama",411
-"Alabama",660
-"Alabama",148
-"Alabama",398
-"Alabama",58
-"Alabama",778
-"Alabama",51
-"Alabama",154
-"Alabama",258
-"Alabama",115
-"Alabama",345
-"Alabama",149
-"Alabama",2943
-"Alabama",54
-"Alabama",296
-"Alabama",75
-"Alabama",836
-"Alabama",269
-"Alabama",415
-"Alabama",147
-"Alabama",701
-"Alabama",237
-"Alabama",168
-"Alabama",1075
-"Alabama",2994
-"Alabama",162
-"Alabama",3215
-"Alabama",747
-"Alabama",87
-"Alabama",165
-"Alabama",356
-"Alabama",142
-"Alabama",358
-"Alabama",201
-"Alabama",765
-"Alabama",268
-"Alabama",182
-"Alabama",510
-"Alabama",1581
-"Alabama",683
-"Alabama",92
-"Alabama",244
-"Alabama",175
-"Alaska",0
-"Alaska",0
-"Alaska",352
-"Alaska",6
-"Alaska",0
-"Alaska",0
-"Alaska",0
-"Alaska",117
-"Alaska",2
-"Alaska",0
-"Alaska",39
-"Alaska",120
-"Alaska",21
-"Alaska",3
-"Alaska",0
-"Alaska",0
-"Alaska",55
-"Alaska",5
-"Alaska",3
-"Alaska",4
-"Alaska",4
-"Alaska",2
-"Alaska",11
-"Alaska",0
-"Alaska",3
-"Alaska",0
-"Alaska",3
-"Alaska",0
-"Alaska",2
-"Arizona",2117
-"Arizona",363
-"Arizona",1536
-"Arizona",160
-"Arizona",63
-"Arizona",13
-"Arizona",273
-"Arizona",30136
-"Arizona",721
-"Arizona",3009
-"Arizona",5370
-"Arizona",2357
-"Arizona",1413
-"Arizona",456
-"Arizona",4604
-"Arkansas",19
-"Arkansas",53
-"Arkansas",14
-"Arkansas",2003
-"Arkansas",11
-"Arkansas",38
-"Arkansas",0
-"Arkansas",129
-"Arkansas",81
-"Arkansas",51
-"Arkansas",40
-"Arkansas",77
-"Arkansas",25
-"Arkansas",38
-"Arkansas",34
-"Arkansas",396
-"Arkansas",97
-"Arkansas",588
-"Arkansas",82
-"Arkansas",6
-"Arkansas",29
-"Arkansas",37
-"Arkansas",269
-"Arkansas",12
-"Arkansas",9
-"Arkansas",177
-"Arkansas",26
-"Arkansas",93
-"Arkansas",44
-"Arkansas",53
-"Arkansas",68
-"Arkansas",46
-"Arkansas",20
-"Arkansas",21
-"Arkansas",650
-"Arkansas",146
-"Arkansas",13
-"Arkansas",93
-"Arkansas",574
-"Arkansas",1036
-"Arkansas",35
-"Arkansas",28
-"Arkansas",88
-"Arkansas",146
-"Arkansas",2
-"Arkansas",91
-"Arkansas",114
-"Arkansas",7
-"Arkansas",2
-"Arkansas",87
-"Arkansas",4
-"Arkansas",17
-"Arkansas",20
-"Arkansas",79
-"Arkansas",7
-"Arkansas",53
-"Arkansas",64
-"Arkansas",326
-"Arkansas",13
-"Arkansas",1514
-"Arkansas",34
-"Arkansas",791
-"Arkansas",209
-"Arkansas",8
-"Arkansas",7
-"Arkansas",244
-"Arkansas",588
-"Arkansas",50
-"Arkansas",11
-"Arkansas",224
-"Arkansas",30
-"Arkansas",2404
-"Arkansas",73
-"Arkansas",6
-"Arkansas",416
-"California",4924
-"California",2
-"California",13
-"California",94
-"California",28
-"California",7
-"California",2294
-"California",48
-"California",130
-"California",3245
-"California",42
-"California",110
-"California",4800
-"California",24
-"California",3890
-"California",2091
-"California",35
-"California",11
-"California",83414
-"California",314
-"California",1110
-"California",18
-"California",54
-"California",616
-"California",0
-"California",37
-"California",1225
-"California",224
-"California",75
-"California",10422
-"California",502
-"California",6
-"California",12778
-"California",2160
-"California",170
-"California",9156
-"California",10794
-"California",3058
-"California",2519
-"California",404
-"California",2721
-"California",2319
-"California",3547
-"California",296
-"California",81
-"California",1
-"California",23
-"California",860
-"California",853
-"California",1599
-"California",101
-"California",34
-"California",2
-"California",3046
-"California",12
-"California",1835
-"California",330
-"California",42
-"Colorado",3909
-"Colorado",168
-"Colorado",4941
-"Colorado",8
-"Colorado",12
-"Colorado",3
-"Colorado",1243
-"Colorado",278
-"Colorado",78
-"Colorado",5
-"Colorado",18
-"Colorado",12
-"Colorado",17
-"Colorado",68
-"Colorado",2
-"Colorado",80
-"Colorado",6630
-"Colorado",0
-"Colorado",852
-"Colorado",649
-"Colorado",54
-"Colorado",2101
-"Colorado",31
-"Colorado",222
-"Colorado",6
-"Colorado",19
-"Colorado",182
-"Colorado",3
-"Colorado",4
-"Colorado",0
-"Colorado",2532
-"Colorado",0
-"Colorado",31
-"Colorado",48
-"Colorado",86
-"Colorado",680
-"Colorado",8
-"Colorado",4
-"Colorado",635
-"Colorado",79
-"Colorado",2
-"Colorado",9
-"Colorado",67
-"Colorado",200
-"Colorado",649
-"Colorado",22
-"Colorado",10
-"Colorado",24
-"Colorado",15
-"Colorado",80
-"Colorado",16
-"Colorado",357
-"Colorado",2
-"Colorado",64
-"Colorado",64
-"Colorado",100
-"Colorado",1
-"Colorado",28
-"Colorado",0
-"Colorado",262
-"Colorado",39
-"Colorado",44
-"Colorado",2721
-"Colorado",50
-"Connecticut",16475
-"Connecticut",11405
-"Connecticut",1467
-"Connecticut",1259
-"Connecticut",12185
-"Connecticut",1217
-"Connecticut",895
-"Connecticut",579
-"Delaware",1613
-"Delaware",4647
-"Delaware",4495
-"District of Columbia",10020
-"Florida",716
-"Florida",41
-"Florida",190
-"Florida",61
-"Florida",850
-"Florida",11155
-"Florida",69
-"Florida",587
-"Florida",189
-"Florida",494
-"Florida",3159
-"Florida",227
-"Florida",450
-"Florida",61
-"Florida",2902
-"Florida",1198
-"Florida",226
-"Florida",2
-"Florida",322
-"Florida",75
-"Florida",142
-"Florida",11
-"Florida",289
-"Florida",289
-"Florida",759
-"Florida",185
-"Florida",226
-"Florida",5580
-"Florida",47
-"Florida",389
-"Florida",333
-"Florida",36
-"Florida",19
-"Florida",733
-"Florida",3627
-"Florida",573
-"Florida",139
-"Florida",221
-"Florida",123
-"Florida",1890
-"Florida",395
-"Florida",1525
-"Florida",25790
-"Florida",162
-"Florida",115
-"Florida",400
-"Florida",245
-"Florida",4914
-"Florida",1052
-"Florida",10754
-"Florida",809
-"Florida",3667
-"Florida",2042
-"Florida",237
-"Florida",461
-"Florida",1214
-"Florida",344
-"Florida",962
-"Florida",1265
-"Florida",284
-"Florida",310
-"Florida",65
-"Florida",41
-"Florida",1218
-"Florida",40
-"Florida",181
-"Florida",96
-"Georgia",217
-"Georgia",91
-"Georgia",196
-"Georgia",36
-"Georgia",444
-"Georgia",114
-"Georgia",416
-"Georgia",596
-"Georgia",122
-"Georgia",91
-"Georgia",601
-"Georgia",54
-"Georgia",73
-"Georgia",115
-"Georgia",95
-"Georgia",151
-"Georgia",133
-"Georgia",246
-"Georgia",158
-"Georgia",96
-"Georgia",21
-"Georgia",625
-"Georgia",275
-"Georgia",38
-"Georgia",779
-"Georgia",315
-"Georgia",49
-"Georgia",1099
-"Georgia",381
-"Georgia",56
-"Georgia",1598
-"Georgia",85
-"Georgia",3893
-"Georgia",408
-"Georgia",734
-"Georgia",342
-"Georgia",91
-"Georgia",550
-"Georgia",36
-"Georgia",257
-"Georgia",59
-"Georgia",124
-"Georgia",243
-"Georgia",4694
-"Georgia",67
-"Georgia",194
-"Georgia",1848
-"Georgia",724
-"Georgia",256
-"Georgia",173
-"Georgia",98
-"Georgia",92
-"Georgia",64
-"Georgia",16
-"Georgia",75
-"Georgia",280
-"Georgia",414
-"Georgia",650
-"Georgia",156
-"Georgia",5496
-"Georgia",178
-"Georgia",3
-"Georgia",305
-"Georgia",291
-"Georgia",163
-"Georgia",88
-"Georgia",6151
-"Georgia",637
-"Georgia",2935
-"Georgia",206
-"Georgia",64
-"Georgia",243
-"Georgia",48
-"Georgia",45
-"Georgia",945
-"Georgia",499
-"Georgia",45
-"Georgia",300
-"Georgia",61
-"Georgia",73
-"Georgia",67
-"Georgia",73
-"Georgia",80
-"Georgia",51
-"Georgia",87
-"Georgia",114
-"Georgia",131
-"Georgia",378
-"Georgia",101
-"Georgia",22
-"Georgia",29
-"Georgia",911
-"Georgia",118
-"Georgia",78
-"Georgia",25
-"Georgia",112
-"Georgia",78
-"Georgia",74
-"Georgia",149
-"Georgia",45
-"Georgia",434
-"Georgia",135
-"Georgia",26
-"Georgia",45
-"Georgia",164
-"Georgia",1169
-"Georgia",474
-"Georgia",133
-"Georgia",81
-"Georgia",466
-"Georgia",93
-"Georgia",80
-"Georgia",137
-"Georgia",81
-"Georgia",178
-"Georgia",46
-"Georgia",120
-"Georgia",15
-"Georgia",35
-"Georgia",194
-"Georgia",746
-"Georgia",371
-"Georgia",21
-"Georgia",75
-"Georgia",49
-"Georgia",340
-"Georgia",165
-"Georgia",82
-"Georgia",532
-"Georgia",58
-"Georgia",2
-"Georgia",80
-"Georgia",27
-"Georgia",64
-"Georgia",218
-"Georgia",371
-"Georgia",525
-"Georgia",147
-"Georgia",36
-"Georgia",19
-"Georgia",978
-"Georgia",167
-"Georgia",23
-"Georgia",56
-"Georgia",319
-"Georgia",284
-"Georgia",344
-"Georgia",317
-"Georgia",19
-"Georgia",79
-"Georgia",46
-"Georgia",17
-"Georgia",35
-"Georgia",129
-"Georgia",763
-"Georgia",121
-"Georgia",43
-"Georgia",73
-"Georgia",285
-"Hawaii",85
-"Hawaii",566
-"Hawaii",0
-"Hawaii",29
-"Hawaii",122
-"Idaho",1166
-"Idaho",9
-"Idaho",79
-"Idaho",0
-"Idaho",21
-"Idaho",30
-"Idaho",519
-"Idaho",0
-"Idaho",12
-"Idaho",93
-"Idaho",0
-"Idaho",0
-"Idaho",1
-"Idaho",433
-"Idaho",8
-"Idaho",167
-"Idaho",0
-"Idaho",0
-"Idaho",2
-"Idaho",39
-"Idaho",19
-"Idaho",4
-"Idaho",18
-"Idaho",61
-"Idaho",3
-"Idaho",12
-"Idaho",216
-"Idaho",122
-"Idaho",8
-"Idaho",2
-"Idaho",0
-"Idaho",35
-"Idaho",30
-"Idaho",115
-"Idaho",84
-"Idaho",0
-"Idaho",27
-"Idaho",43
-"Idaho",14
-"Idaho",0
-"Idaho",14
-"Idaho",511
-"Idaho",3
-"Idaho",84
-"Illinois",55
-"Illinois",20
-"Illinois",12
-"Illinois",555
-"Illinois",10
-"Illinois",24
-"Illinois",1
-"Illinois",19
-"Illinois",100
-"Illinois",775
-"Illinois",42
-"Illinois",13
-"Illinois",2
-"Illinois",224
-"Illinois",151
-"Illinois",87177
-"Illinois",18
-"Illinois",10
-"Illinois",523
-"Illinois",4
-"Illinois",42
-"Illinois",8682
-"Illinois",6
-"Illinois",2
-"Illinois",12
-"Illinois",23
-"Illinois",22
-"Illinois",12
-"Illinois",12
-"Illinois",2
-"Illinois",8
-"Illinois",142
-"Illinois",2
-"Illinois",18
-"Illinois",1
-"Illinois",8
-"Illinois",74
-"Illinois",143
-"Illinois",323
-"Illinois",46
-"Illinois",104
-"Illinois",31
-"Illinois",38
-"Illinois",20
-"Illinois",7399
-"Illinois",1145
-"Illinois",912
-"Illinois",117
-"Illinois",9326
-"Illinois",190
-"Illinois",5
-"Illinois",96
-"Illinois",37
-"Illinois",13
-"Illinois",101
-"Illinois",1911
-"Illinois",251
-"Illinois",218
-"Illinois",47
-"Illinois",813
-"Illinois",60
-"Illinois",6
-"Illinois",19
-"Illinois",7
-"Illinois",23
-"Illinois",20
-"Illinois",113
-"Illinois",41
-"Illinois",119
-"Illinois",15
-"Illinois",234
-"Illinois",428
-"Illinois",44
-"Illinois",17
-"Illinois",2
-"Illinois",1
-"Illinois",66
-"Illinois",1
-"Illinois",278
-"Illinois",4
-"Illinois",785
-"Illinois",1604
-"Illinois",8
-"Illinois",387
-"Illinois",13
-"Illinois",0
-"Illinois",16
-"Illinois",3
-"Illinois",249
-"Illinois",111
-"Illinois",182
-"Illinois",49
-"Illinois",22
-"Illinois",129
-"Illinois",19
-"Illinois",11
-"Illinois",3
-"Illinois",172
-"Illinois",6367
-"Illinois",93
-"Illinois",2861
-"Illinois",32
-"Indiana",36
-"Indiana",2414
-"Indiana",567
-"Indiana",41
-"Indiana",32
-"Indiana",390
-"Indiana",37
-"Indiana",103
-"Indiana",1625
-"Indiana",592
-"Indiana",56
-"Indiana",273
-"Indiana",27
-"Indiana",132
-"Indiana",189
-"Indiana",239
-"Indiana",139
-"Indiana",407
-"Indiana",251
-"Indiana",2603
-"Indiana",85
-"Indiana",344
-"Indiana",24
-"Indiana",121
-"Indiana",62
-"Indiana",27
-"Indiana",278
-"Indiana",184
-"Indiana",1369
-"Indiana",391
-"Indiana",200
-"Indiana",1318
-"Indiana",209
-"Indiana",499
-"Indiana",60
-"Indiana",431
-"Indiana",91
-"Indiana",63
-"Indiana",56
-"Indiana",161
-"Indiana",1200
-"Indiana",44
-"Indiana",381
-"Indiana",377
-"Indiana",4400
-"Indiana",486
-"Indiana",193
-"Indiana",620
-"Indiana",10945
-"Indiana",359
-"Indiana",21
-"Indiana",176
-"Indiana",208
-"Indiana",272
-"Indiana",306
-"Indiana",88
-"Indiana",367
-"Indiana",13
-"Indiana",132
-"Indiana",40
-"Indiana",20
-"Indiana",105
-"Indiana",6
-"Indiana",615
-"Indiana",24
-"Indiana",54
-"Indiana",158
-"Indiana",71
-"Indiana",112
-"Indiana",52
-"Indiana",1662
-"Indiana",149
-"Indiana",408
-"Indiana",24
-"Indiana",60
-"Indiana",109
-"Indiana",41
-"Indiana",22
-"Indiana",530
-"Indiana",28
-"Indiana",12
-"Indiana",342
-"Indiana",13
-"Indiana",210
-"Indiana",93
-"Indiana",14
-"Indiana",180
-"Indiana",62
-"Indiana",108
-"Indiana",65
-"Indiana",249
-"Indiana",71
-"Iowa",12
-"Iowa",7
-"Iowa",121
-"Iowa",20
-"Iowa",15
-"Iowa",52
-"Iowa",1892
-"Iowa",117
-"Iowa",82
-"Iowa",37
-"Iowa",1666
-"Iowa",35
-"Iowa",25
-"Iowa",70
-"Iowa",16
-"Iowa",60
-"Iowa",59
-"Iowa",66
-"Iowa",21
-"Iowa",112
-"Iowa",105
-"Iowa",35
-"Iowa",75
-"Iowa",640
-"Iowa",1073
-"Iowa",36
-"Iowa",9
-"Iowa",33
-"Iowa",76
-"Iowa",200
-"Iowa",415
-"Iowa",57
-"Iowa",29
-"Iowa",33
-"Iowa",60
-"Iowa",4
-"Iowa",28
-"Iowa",26
-"Iowa",62
-"Iowa",158
-"Iowa",37
-"Iowa",53
-"Iowa",42
-"Iowa",78
-"Iowa",14
-"Iowa",40
-"Iowa",20
-"Iowa",39
-"Iowa",19
-"Iowa",296
-"Iowa",47
-"Iowa",756
-"Iowa",46
-"Iowa",16
-"Iowa",24
-"Iowa",45
-"Iowa",1095
-"Iowa",356
-"Iowa",26
-"Iowa",32
-"Iowa",35
-"Iowa",111
-"Iowa",45
-"Iowa",974
-"Iowa",31
-"Iowa",8
-"Iowa",59
-"Iowa",49
-"Iowa",10
-"Iowa",583
-"Iowa",71
-"Iowa",49
-"Iowa",18
-"Iowa",22
-"Iowa",243
-"Iowa",38
-"Iowa",5498
-"Iowa",620
-"Iowa",96
-"Iowa",11
-"Iowa",47
-"Iowa",445
-"Iowa",78
-"Iowa",419
-"Iowa",469
-"Iowa",431
-"Iowa",76
-"Iowa",12
-"Iowa",12
-"Iowa",688
-"Iowa",210
-"Iowa",212
-"Iowa",5
-"Iowa",120
-"Iowa",15
-"Iowa",24
-"Iowa",3066
-"Iowa",6
-"Iowa",332
-"Kansas",2
-"Kansas",3
-"Kansas",27
-"Kansas",1
-"Kansas",54
-"Kansas",9
-"Kansas",14
-"Kansas",47
-"Kansas",3
-"Kansas",4
-"Kansas",17
-"Kansas",2
-"Kansas",34
-"Kansas",6
-"Kansas",7
-"Kansas",52
-"Kansas",2
-"Kansas",55
-"Kansas",167
-"Kansas",0
-"Kansas",6
-"Kansas",24
-"Kansas",91
-"Kansas",6
-"Kansas",0
-"Kansas",14
-"Kansas",3
-"Kansas",1546
-"Kansas",1892
-"Kansas",57
-"Kansas",33
-"Kansas",1
-"Kansas",0
-"Kansas",23
-"Kansas",24
-"Kansas",0
-"Kansas",11
-"Kansas",28
-"Kansas",2
-"Kansas",13
-"Kansas",23
-"Kansas",8
-"Kansas",104
-"Kansas",22
-"Kansas",4
-"Kansas",1257
-"Kansas",46
-"Kansas",0
-"Kansas",3
-"Kansas",28
-"Kansas",5
-"Kansas",1122
-"Kansas",0
-"Kansas",12
-"Kansas",0
-"Kansas",476
-"Kansas",41
-"Kansas",7
-"Kansas",0
-"Kansas",30
-"Kansas",20
-"Kansas",4
-"Kansas",25
-"Kansas",5
-"Kansas",6
-"Kansas",22
-"Kansas",17
-"Kansas",4
-"Kansas",3
-"Kansas",10
-"Kansas",2
-"Kansas",4
-"Kansas",3
-"Kansas",2
-"Kansas",42
-"Kansas",6
-"Kansas",0
-"Kansas",55
-"Kansas",4
-"Kansas",4
-"Kansas",103
-"Kansas",6
-"Kansas",0
-"Kansas",0
-"Kansas",40
-"Kansas",16
-"Kansas",882
-"Kansas",955
-"Kansas",491
-"Kansas",3
-"Kansas",7
-"Kansas",3
-"Kansas",1
-"Kansas",9
-"Kansas",30
-"Kansas",9
-"Kansas",0
-"Kansas",1
-"Kansas",32
-"Kansas",0
-"Kansas",1
-"Kansas",0
-"Kansas",1
-"Kansas",6
-"Kansas",1834
-"Kentucky",105
-"Kentucky",152
-"Kentucky",27
-"Kentucky",14
-"Kentucky",71
-"Kentucky",10
-"Kentucky",5
-"Kentucky",568
-"Kentucky",27
-"Kentucky",49
-"Kentucky",32
-"Kentucky",16
-"Kentucky",4
-"Kentucky",24
-"Kentucky",144
-"Kentucky",246
-"Kentucky",13
-"Kentucky",66
-"Kentucky",227
-"Kentucky",5
-"Kentucky",29
-"Kentucky",21
-"Kentucky",13
-"Kentucky",145
-"Kentucky",87
-"Kentucky",32
-"Kentucky",5
-"Kentucky",7
-"Kentucky",6
-"Kentucky",381
-"Kentucky",71
-"Kentucky",2
-"Kentucky",5
-"Kentucky",1153
-"Kentucky",12
-"Kentucky",26
-"Kentucky",109
-"Kentucky",15
-"Kentucky",57
-"Kentucky",16
-"Kentucky",53
-"Kentucky",183
-"Kentucky",137
-"Kentucky",6
-"Kentucky",19
-"Kentucky",11
-"Kentucky",134
-"Kentucky",17
-"Kentucky",59
-"Kentucky",36
-"Kentucky",144
-"Kentucky",29
-"Kentucky",5
-"Kentucky",233
-"Kentucky",90
-"Kentucky",3582
-"Kentucky",98
-"Kentucky",9
-"Kentucky",723
-"Kentucky",4
-"Kentucky",13
-"Kentucky",11
-"Kentucky",55
-"Kentucky",5
-"Kentucky",1
-"Kentucky",7
-"Kentucky",8
-"Kentucky",17
-"Kentucky",18
-"Kentucky",8
-"Kentucky",202
-"Kentucky",18
-"Kentucky",143
-"Kentucky",14
-"Kentucky",24
-"Kentucky",94
-"Kentucky",5
-"Kentucky",46
-"Kentucky",50
-"Kentucky",4
-"Kentucky",24
-"Kentucky",24
-"Kentucky",10
-"Kentucky",17
-"Kentucky",8
-"Kentucky",34
-"Kentucky",45
-"Kentucky",7
-"Kentucky",492
-"Kentucky",53
-"Kentucky",5
-"Kentucky",171
-"Kentucky",117
-"Kentucky",5
-"Kentucky",2
-"Kentucky",14
-"Kentucky",41
-"Kentucky",63
-"Kentucky",5
-"Kentucky",77
-"Kentucky",0
-"Kentucky",17
-"Kentucky",17
-"Kentucky",38
-"Kentucky",67
-"Kentucky",361
-"Kentucky",62
-"Kentucky",29
-"Kentucky",29
-"Kentucky",23
-"Kentucky",22
-"Kentucky",5
-"Kentucky",25
-"Kentucky",1357
-"Kentucky",18
-"Kentucky",12
-"Kentucky",39
-"Kentucky",20
-"Kentucky",1
-"Kentucky",61
-"Louisiana",654
-"Louisiana",226
-"Louisiana",997
-"Louisiana",327
-"Louisiana",204
-"Louisiana",158
-"Louisiana",200
-"Louisiana",665
-"Louisiana",2905
-"Louisiana",888
-"Louisiana",95
-"Louisiana",27
-"Louisiana",152
-"Louisiana",106
-"Louisiana",101
-"Louisiana",316
-"Louisiana",4374
-"Louisiana",332
-"Louisiana",268
-"Louisiana",123
-"Louisiana",416
-"Louisiana",76
-"Louisiana",469
-"Louisiana",665
-"Louisiana",189
-"Louisiana",8681
-"Louisiana",208
-"Louisiana",1396
-"Louisiana",1010
-"Louisiana",86
-"Louisiana",274
-"Louisiana",683
-"Louisiana",317
-"Louisiana",186
-"Louisiana",192
-"Louisiana",7518
-"Louisiana",1960
-"Louisiana",239
-"Louisiana",222
-"Louisiana",1320
-"Louisiana",54
-"Louisiana",148
-"Louisiana",61
-"Louisiana",601
-"Louisiana",689
-"Louisiana",86
-"Louisiana",334
-"Louisiana",924
-"Louisiana",465
-"Louisiana",514
-"Louisiana",384
-"Louisiana",2017
-"Louisiana",1120
-"Louisiana",24
-"Louisiana",848
-"Louisiana",375
-"Louisiana",130
-"Louisiana",76
-"Louisiana",581
-"Louisiana",321
-"Louisiana",234
-"Louisiana",107
-"Louisiana",226
-"Louisiana",226
-"Maine",452
-"Maine",17
-"Maine",1540
-"Maine",38
-"Maine",14
-"Maine",138
-"Maine",24
-"Maine",21
-"Maine",34
-"Maine",102
-"Maine",2
-"Maine",30
-"Maine",26
-"Maine",55
-"Maine",2
-"Maine",461
-"Maryland",188
-"Maryland",4904
-"Maryland",7537
-"Maryland",394
-"Maryland",294
-"Maryland",1030
-"Maryland",460
-"Maryland",1313
-"Maryland",183
-"Maryland",2393
-"Maryland",10
-"Maryland",1056
-"Maryland",2423
-"Maryland",193
-"Maryland",14079
-"Maryland",17874
-"Maryland",205
-"Maryland",602
-"Maryland",83
-"Maryland",115
-"Maryland",603
-"Maryland",1043
-"Maryland",271
-"Maryland",7053
-"Massachusetts",1515
-"Massachusetts",590
-"Massachusetts",8035
-"Massachusetts",0
-"Massachusetts",15829
-"Massachusetts",358
-"Massachusetts",6598
-"Massachusetts",944
-"Massachusetts",23574
-"Massachusetts",0
-"Massachusetts",8994
-"Massachusetts",8583
-"Massachusetts",19551
-"Massachusetts",12130
-"Michigan",21
-"Michigan",2
-"Michigan",299
-"Michigan",115
-"Michigan",16
-"Michigan",38
-"Michigan",1
-"Michigan",94
-"Michigan",378
-"Michigan",5
-"Michigan",852
-"Michigan",250
-"Michigan",504
-"Michigan",122
-"Michigan",22
-"Michigan",26
-"Michigan",3
-"Michigan",27
-"Michigan",201
-"Michigan",66
-"Michigan",21
-"Michigan",7
-"Michigan",269
-"Michigan",26
-"Michigan",2631
-"Michigan",23
-"Michigan",6
-"Michigan",38
-"Michigan",93
-"Michigan",183
-"Michigan",9
-"Michigan",63
-"Michigan",845
-"Michigan",190
-"Michigan",111
-"Michigan",4
-"Michigan",112
-"Michigan",489
-"Michigan",996
-"Michigan",30
-"Michigan",4590
-"Michigan",1
-"Michigan",7
-"Michigan",244
-"Michigan",12
-"Michigan",199
-"Michigan",539
-"Michigan",3
-"Michigan",8
-"Michigan",7152
-"Michigan",15
-"Michigan",62
-"Michigan",41
-"Michigan",29
-"Michigan",9
-"Michigan",159
-"Michigan",24
-"Michigan",576
-"Michigan",83
-"Michigan",5
-"Michigan",784
-"Michigan",139
-"Michigan",11685
-"Michigan",176
-"Michigan",32
-"Michigan",0
-"Michigan",27
-"Michigan",9
-"Michigan",121
-"Michigan",965
-"Michigan",12
-"Michigan",26
-"Michigan",1193
-"Michigan",525
-"Michigan",219
-"Michigan",43
-"Michigan",4
-"Michigan",265
-"Michigan",246
-"Michigan",216
-"Michigan",1615
-"Michigan",22139
-"Michigan",18
-"Minnesota",13
-"Minnesota",1894
-"Minnesota",49
-"Minnesota",25
-"Minnesota",201
-"Minnesota",14
-"Minnesota",214
-"Minnesota",21
-"Minnesota",81
-"Minnesota",294
-"Minnesota",12
-"Minnesota",66
-"Minnesota",87
-"Minnesota",526
-"Minnesota",6
-"Minnesota",1
-"Minnesota",121
-"Minnesota",94
-"Minnesota",1915
-"Minnesota",65
-"Minnesota",54
-"Minnesota",33
-"Minnesota",23
-"Minnesota",251
-"Minnesota",105
-"Minnesota",6
-"Minnesota",10830
-"Minnesota",13
-"Minnesota",5
-"Minnesota",55
-"Minnesota",59
-"Minnesota",52
-"Minnesota",13
-"Minnesota",560
-"Minnesota",1
-"Minnesota",9
-"Minnesota",4
-"Minnesota",4
-"Minnesota",0
-"Minnesota",62
-"Minnesota",6
-"Minnesota",274
-"Minnesota",67
-"Minnesota",6
-"Minnesota",12
-"Minnesota",148
-"Minnesota",51
-"Minnesota",30
-"Minnesota",55
-"Minnesota",797
-"Minnesota",47
-"Minnesota",108
-"Minnesota",1631
-"Minnesota",18
-"Minnesota",903
-"Minnesota",85
-"Minnesota",50
-"Minnesota",97
-"Minnesota",14
-"Minnesota",72
-"Minnesota",10
-"Minnesota",4306
-"Minnesota",3
-"Minnesota",12
-"Minnesota",12
-"Minnesota",748
-"Minnesota",28
-"Minnesota",6
-"Minnesota",142
-"Minnesota",570
-"Minnesota",275
-"Minnesota",29
-"Minnesota",2134
-"Minnesota",194
-"Minnesota",2
-"Minnesota",20
-"Minnesota",388
-"Minnesota",5
-"Minnesota",27
-"Minnesota",12
-"Minnesota",40
-"Minnesota",885
-"Minnesota",144
-"Minnesota",20
-"Minnesota",94
-"Minnesota",401
-"Minnesota",22
-"Mississippi",227
-"Mississippi",32
-"Mississippi",73
-"Mississippi",335
-"Mississippi",18
-"Mississippi",197
-"Mississippi",83
-"Mississippi",122
-"Mississippi",177
-"Mississippi",71
-"Mississippi",144
-"Mississippi",168
-"Mississippi",185
-"Mississippi",156
-"Mississippi",425
-"Mississippi",213
-"Mississippi",790
-"Mississippi",697
-"Mississippi",30
-"Mississippi",41
-"Mississippi",56
-"Mississippi",170
-"Mississippi",100
-"Mississippi",393
-"Mississippi",1390
-"Mississippi",477
-"Mississippi",83
-"Mississippi",0
-"Mississippi",106
-"Mississippi",385
-"Mississippi",203
-"Mississippi",57
-"Mississippi",86
-"Mississippi",910
-"Mississippi",169
-"Mississippi",209
-"Mississippi",300
-"Mississippi",818
-"Mississippi",121
-"Mississippi",496
-"Mississippi",330
-"Mississippi",385
-"Mississippi",330
-"Mississippi",352
-"Mississippi",922
-"Mississippi",163
-"Mississippi",122
-"Mississippi",301
-"Mississippi",98
-"Mississippi",921
-"Mississippi",325
-"Mississippi",218
-"Mississippi",386
-"Mississippi",146
-"Mississippi",224
-"Mississippi",55
-"Mississippi",248
-"Mississippi",93
-"Mississippi",70
-"Mississippi",52
-"Mississippi",563
-"Mississippi",696
-"Mississippi",9
-"Mississippi",126
-"Mississippi",182
-"Mississippi",35
-"Mississippi",128
-"Mississippi",49
-"Mississippi",155
-"Mississippi",100
-"Mississippi",47
-"Mississippi",67
-"Mississippi",109
-"Mississippi",111
-"Mississippi",280
-"Mississippi",276
-"Mississippi",409
-"Mississippi",109
-"Mississippi",85
-"Mississippi",158
-"Mississippi",139
-"Mississippi",354
-"Missouri",85
-"Missouri",41
-"Missouri",3
-"Missouri",134
-"Missouri",31
-"Missouri",15
-"Missouri",12
-"Missouri",15
-"Missouri",13
-"Missouri",258
-"Missouri",805
-"Missouri",62
-"Missouri",9
-"Missouri",42
-"Missouri",48
-"Missouri",120
-"Missouri",11
-"Missouri",6
-"Missouri",116
-"Missouri",9
-"Missouri",6
-"Missouri",32
-"Missouri",1
-"Missouri",342
-"Missouri",23
-"Missouri",60
-"Missouri",12
-"Missouri",10
-"Missouri",1
-"Missouri",9
-"Missouri",7
-"Missouri",10
-"Missouri",1
-"Missouri",3
-"Missouri",79
-"Missouri",188
-"Missouri",4
-"Missouri",55
-"Missouri",225
-"Missouri",17
-"Missouri",9
-"Missouri",17
-"Missouri",0
-"Missouri",2
-"Missouri",3
-"Missouri",30
-"Missouri",2
-"Missouri",1018
-"Missouri",266
-"Missouri",401
-"Missouri",89
-"Missouri",2
-"Missouri",16
-"Missouri",86
-"Missouri",13
-"Missouri",7
-"Missouri",91
-"Missouri",13
-"Missouri",7
-"Missouri",366
-"Missouri",7
-"Missouri",3
-"Missouri",2
-"Missouri",11
-"Missouri",5
-"Missouri",10
-"Missouri",77
-"Missouri",49
-"Missouri",5
-"Missouri",13
-"Missouri",12
-"Missouri",36
-"Missouri",265
-"Missouri",17
-"Missouri",6
-"Missouri",5
-"Missouri",1
-"Missouri",105
-"Missouri",102
-"Missouri",98
-"Missouri",7
-"Missouri",33
-"Missouri",102
-"Missouri",10
-"Missouri",106
-"Missouri",2
-"Missouri",6
-"Missouri",12
-"Missouri",25
-"Missouri",2
-"Missouri",14
-"Missouri",954
-"Missouri",2
-"Missouri",16
-"Missouri",66
-"Missouri",5850
-"Missouri",278
-"Missouri",4
-"Missouri",8
-"Missouri",159
-"Missouri",6
-"Missouri",2
-"Missouri",126
-"Missouri",10
-"Missouri",101
-"Missouri",30
-"Missouri",2
-"Missouri",12
-"Missouri",33
-"Missouri",14
-"Missouri",1
-"Missouri",21
-"Missouri",4
-"Missouri",14
-"Missouri",2319
-"Montana",1
-"Montana",59
-"Montana",0
-"Montana",5
-"Montana",13
-"Montana",0
-"Montana",22
-"Montana",0
-"Montana",22
-"Montana",0
-"Montana",1
-"Montana",3
-"Montana",0
-"Montana",2
-"Montana",46
-"Montana",209
-"Montana",0
-"Montana",7
-"Montana",3
-"Montana",0
-"Montana",1
-"Montana",3
-"Montana",0
-"Montana",11
-"Montana",22
-"Montana",1
-"Montana",7
-"Montana",0
-"Montana",8
-"Montana",1
-"Montana",0
-"Montana",49
-"Montana",1
-"Montana",9
-"Montana",0
-"Montana",0
-"Montana",2
-"Montana",0
-"Montana",0
-"Montana",0
-"Montana",17
-"Montana",8
-"Montana",7
-"Montana",7
-"Montana",0
-"Montana",0
-"Montana",11
-"Montana",3
-"Montana",0
-"Montana",0
-"Montana",31
-"Montana",0
-"Montana",1
-"Montana",1
-"Montana",0
-"Montana",123
-"Nebraska",282
-"Nebraska",8
-"Nebraska",0
-"Nebraska",1
-"Nebraska",0
-"Nebraska",7
-"Nebraska",3
-"Nebraska",1
-"Nebraska",0
-"Nebraska",179
-"Nebraska",11
-"Nebraska",51
-"Nebraska",61
-"Nebraska",9
-"Nebraska",1
-"Nebraska",1
-"Nebraska",13
-"Nebraska",27
-"Nebraska",658
-"Nebraska",34
-"Nebraska",34
-"Nebraska",1739
-"Nebraska",2
-"Nebraska",850
-"Nebraska",0
-"Nebraska",43
-"Nebraska",654
-"Nebraska",6299
-"Nebraska",0
-"Nebraska",13
-"Nebraska",6
-"Nebraska",1
-"Nebraska",9
-"Nebraska",47
-"Nebraska",4
-"Nebraska",1
-"Nebraska",13
-"Nebraska",0
-"Nebraska",3
-"Nebraska",1574
-"Nebraska",58
-"Nebraska",0
-"Nebraska",0
-"Nebraska",1
-"Nebraska",1
-"Nebraska",0
-"Nebraska",44
-"Nebraska",9
-"Nebraska",6
-"Nebraska",12
-"Nebraska",2
-"Nebraska",0
-"Nebraska",8
-"Nebraska",16
-"Nebraska",1601
-"Nebraska",54
-"Nebraska",0
-"Nebraska",0
-"Nebraska",0
-"Nebraska",344
-"Nebraska",37
-"Nebraska",14
-"Nebraska",4
-"Nebraska",5
-"Nebraska",1
-"Nebraska",14
-"Nebraska",0
-"Nebraska",0
-"Nebraska",21
-"Nebraska",6
-"Nebraska",652
-"Nebraska",12
-"Nebraska",6
-"Nebraska",5
-"Nebraska",0
-"Nebraska",525
-"Nebraska",1018
-"Nebraska",63
-"Nebraska",190
-"Nebraska",32
-"Nebraska",0
-"Nebraska",5
-"Nebraska",1
-"Nebraska",21
-"Nebraska",1
-"Nebraska",1
-"Nebraska",72
-"Nebraska",7
-"Nebraska",45
-"Nebraska",26
-"Nebraska",6
-"Nebraska",0
-"Nebraska",40
-"Nevada",10
-"Nevada",10486
-"Nevada",52
-"Nevada",60
-"Nevada",0
-"Nevada",0
-"Nevada",79
-"Nevada",24
-"Nevada",2
-"Nevada",99
-"Nevada",4
-"Nevada",78
-"Nevada",5
-"Nevada",1
-"Nevada",2209
-"Nevada",3
-"Nevada",128
-"New Hampshire",78
-"New Hampshire",52
-"New Hampshire",64
-"New Hampshire",6
-"New Hampshire",76
-"New Hampshire",3126
-"New Hampshire",396
-"New Hampshire",1436
-"New Hampshire",284
-"New Hampshire",24
-"New Jersey",2702
-"New Jersey",19010
-"New Jersey",5023
-"New Jersey",7135
-"New Jersey",688
-"New Jersey",2847
-"New Jersey",18551
-"New Jersey",2467
-"New Jersey",19280
-"New Jersey",1054
-"New Jersey",7541
-"New Jersey",16605
-"New Jersey",8942
-"New Jersey",6699
-"New Jersey",9425
-"New Jersey",16769
-"New Jersey",750
-"New Jersey",4813
-"New Jersey",1220
-"New Jersey",16322
-"New Jersey",1216
-"New Mexico",1805
-"New Mexico",2
-"New Mexico",64
-"New Mexico",196
-"New Mexico",9
-"New Mexico",110
-"New Mexico",0
-"New Mexico",718
-"New Mexico",53
-"New Mexico",17
-"New Mexico",20
-"New Mexico",1
-"New Mexico",28
-"New Mexico",67
-"New Mexico",7
-"New Mexico",7
-"New Mexico",54
-"New Mexico",3073
-"New Mexico",0
-"New Mexico",31
-"New Mexico",5
-"New Mexico",79
-"New Mexico",53
-"New Mexico",675
-"New Mexico",2183
-"New Mexico",18
-"New Mexico",196
-"New Mexico",5
-"New Mexico",56
-"New Mexico",33
-"New Mexico",36
-"New Mexico",5
-"New Mexico",96
-"New York",2054
-"New York",58
-"New York",0
-"New York",668
-"New York",115
-"New York",108
-"New York",116
-"New York",139
-"New York",139
-"New York",100
-"New York",451
-"New York",44
-"New York",90
-"New York",4138
-"New York",7004
-"New York",41
-"New York",27
-"New York",243
-"New York",222
-"New York",256
-"New York",6
-"New York",136
-"New York",84
-"New York",0
-"New York",23
-"New York",123
-"New York",345
-"New York",3498
-"New York",106
-"New York",41479
-"New York",212446
-"New York",1192
-"New York",1393
-"New York",2666
-"New York",240
-"New York",10648
-"New York",276
-"New York",173
-"New York",82
-"New York",1301
-"New York",0
-"New York",524
-"New York",0
-"New York",13504
-"New York",216
-"New York",533
-"New York",754
-"New York",57
-"New York",12
-"New York",64
-"New York",261
-"New York",40972
-"New York",1437
-"New York",140
-"New York",175
-"New York",1754
-"New York",261
-"New York",244
-"New York",143
-"New York",34521
-"New York",93
-"New York",41
-"North Carolina",939
-"North Carolina",65
-"North Carolina",30
-"North Carolina",102
-"North Carolina",47
-"North Carolina",8
-"North Carolina",57
-"North Carolina",136
-"North Carolina",307
-"North Carolina",345
-"North Carolina",501
-"North Carolina",911
-"North Carolina",869
-"North Carolina",314
-"North Carolina",19
-"North Carolina",53
-"North Carolina",116
-"North Carolina",552
-"North Carolina",882
-"North Carolina",32
-"North Carolina",19
-"North Carolina",9
-"North Carolina",225
-"North Carolina",461
-"North Carolina",310
-"North Carolina",1008
-"North Carolina",16
-"North Carolina",27
-"North Carolina",735
-"North Carolina",156
-"North Carolina",1332
-"North Carolina",3196
-"North Carolina",273
-"North Carolina",2524
-"North Carolina",280
-"North Carolina",737
-"North Carolina",25
-"North Carolina",6
-"North Carolina",735
-"North Carolina",144
-"North Carolina",2402
-"North Carolina",265
-"North Carolina",499
-"North Carolina",70
-"North Carolina",497
-"North Carolina",156
-"North Carolina",326
-"North Carolina",6
-"North Carolina",540
-"North Carolina",71
-"North Carolina",1111
-"North Carolina",28
-"North Carolina",717
-"North Carolina",342
-"North Carolina",186
-"North Carolina",197
-"North Carolina",252
-"North Carolina",6
-"North Carolina",112
-"North Carolina",8752
-"North Carolina",25
-"North Carolina",246
-"North Carolina",370
-"North Carolina",348
-"North Carolina",557
-"North Carolina",175
-"North Carolina",211
-"North Carolina",538
-"North Carolina",15
-"North Carolina",163
-"North Carolina",166
-"North Carolina",30
-"North Carolina",92
-"North Carolina",561
-"North Carolina",65
-"North Carolina",1054
-"North Carolina",233
-"North Carolina",1085
-"North Carolina",166
-"North Carolina",1019
-"North Carolina",255
-"North Carolina",877
-"North Carolina",123
-"North Carolina",234
-"North Carolina",105
-"North Carolina",382
-"North Carolina",40
-"North Carolina",19
-"North Carolina",5
-"North Carolina",920
-"North Carolina",452
-"North Carolina",3884
-"North Carolina",148
-"North Carolina",37
-"North Carolina",47
-"North Carolina",1643
-"North Carolina",555
-"North Carolina",603
-"North Carolina",280
-"North Carolina",35
-"North Dakota",0
-"North Dakota",18
-"North Dakota",3
-"North Dakota",1
-"North Dakota",5
-"North Dakota",1
-"North Dakota",5
-"North Dakota",198
-"North Dakota",2138
-"North Dakota",1
-"North Dakota",4
-"North Dakota",1
-"North Dakota",12
-"North Dakota",5
-"North Dakota",4
-"North Dakota",1
-"North Dakota",0
-"North Dakota",361
-"North Dakota",2
-"North Dakota",2
-"North Dakota",0
-"North Dakota",2
-"North Dakota",11
-"North Dakota",0
-"North Dakota",3
-"North Dakota",1
-"North Dakota",24
-"North Dakota",11
-"North Dakota",6
-"North Dakota",70
-"North Dakota",43
-"North Dakota",1
-"North Dakota",1
-"North Dakota",7
-"North Dakota",4
-"North Dakota",8
-"North Dakota",15
-"North Dakota",3
-"North Dakota",38
-"North Dakota",9
-"North Dakota",4
-"North Dakota",1
-"North Dakota",12
-"North Dakota",3
-"North Dakota",68
-"North Dakota",1
-"North Dakota",62
-"North Dakota",0
-"North Dakota",15
-"North Dakota",17
-"North Dakota",52
-"North Dakota",8
-"North Dakota",26
-"Ohio",18
-"Ohio",251
-"Ohio",39
-"Ohio",407
-"Ohio",25
-"Ohio",90
-"Ohio",484
-"Ohio",43
-"Ohio",1201
-"Ohio",41
-"Ohio",37
-"Ohio",653
-"Ohio",279
-"Ohio",55
-"Ohio",961
-"Ohio",60
-"Ohio",122
-"Ohio",5633
-"Ohio",227
-"Ohio",42
-"Ohio",427
-"Ohio",217
-"Ohio",409
-"Ohio",45
-"Ohio",7794
-"Ohio",53
-"Ohio",9
-"Ohio",357
-"Ohio",169
-"Ohio",45
-"Ohio",3829
-"Ohio",62
-"Ohio",107
-"Ohio",11
-"Ohio",23
-"Ohio",39
-"Ohio",73
-"Ohio",127
-"Ohio",110
-"Ohio",16
-"Ohio",74
-"Ohio",34
-"Ohio",367
-"Ohio",44
-"Ohio",331
-"Ohio",48
-"Ohio",843
-"Ohio",2490
-"Ohio",174
-"Ohio",1654
-"Ohio",2715
-"Ohio",413
-"Ohio",9
-"Ohio",258
-"Ohio",400
-"Ohio",82
-"Ohio",1263
-"Ohio",6
-"Ohio",110
-"Ohio",64
-"Ohio",6
-"Ohio",119
-"Ohio",18
-"Ohio",26
-"Ohio",2139
-"Ohio",14
-"Ohio",369
-"Ohio",51
-"Ohio",105
-"Ohio",271
-"Ohio",84
-"Ohio",109
-"Ohio",21
-"Ohio",31
-"Ohio",51
-"Ohio",942
-"Ohio",1756
-"Ohio",711
-"Ohio",429
-"Ohio",71
-"Ohio",16
-"Ohio",22
-"Ohio",584
-"Ohio",119
-"Ohio",327
-"Ohio",59
-"Ohio",334
-"Ohio",55
-"Oklahoma",107
-"Oklahoma",1
-"Oklahoma",13
-"Oklahoma",30
-"Oklahoma",8
-"Oklahoma",14
-"Oklahoma",71
-"Oklahoma",180
-"Oklahoma",197
-"Oklahoma",69
-"Oklahoma",66
-"Oklahoma",107
-"Oklahoma",1
-"Oklahoma",677
-"Oklahoma",6
-"Oklahoma",365
-"Oklahoma",5
-"Oklahoma",18
-"Oklahoma",123
-"Oklahoma",49
-"Oklahoma",117
-"Oklahoma",4
-"Oklahoma",0
-"Oklahoma",55
-"Oklahoma",45
-"Oklahoma",125
-"Oklahoma",2
-"Oklahoma",66
-"Oklahoma",1
-"Oklahoma",1
-"Oklahoma",7
-"Oklahoma",5
-"Oklahoma",32
-"Oklahoma",4
-"Oklahoma",8
-"Oklahoma",80
-"Oklahoma",19
-"Oklahoma",6
-"Oklahoma",7
-"Oklahoma",27
-"Oklahoma",26
-"Oklahoma",28
-"Oklahoma",26
-"Oklahoma",130
-"Oklahoma",302
-"Oklahoma",38
-"Oklahoma",8
-"Oklahoma",22
-"Oklahoma",69
-"Oklahoma",13
-"Oklahoma",94
-"Oklahoma",28
-"Oklahoma",28
-"Oklahoma",7
-"Oklahoma",2099
-"Oklahoma",45
-"Oklahoma",140
-"Oklahoma",44
-"Oklahoma",48
-"Oklahoma",242
-"Oklahoma",48
-"Oklahoma",27
-"Oklahoma",85
-"Oklahoma",9
-"Oklahoma",0
-"Oklahoma",126
-"Oklahoma",35
-"Oklahoma",25
-"Oklahoma",49
-"Oklahoma",980
-"Oklahoma",23
-"Oklahoma",2349
-"Oklahoma",210
-"Oklahoma",375
-"Oklahoma",3
-"Oklahoma",5
-"Oklahoma",12
-"Oregon",1
-"Oregon",66
-"Oregon",561
-"Oregon",46
-"Oregon",26
-"Oregon",33
-"Oregon",9
-"Oregon",7
-"Oregon",142
-"Oregon",32
-"Oregon",0
-"Oregon",1
-"Oregon",1
-"Oregon",87
-"Oregon",85
-"Oregon",77
-"Oregon",26
-"Oregon",80
-"Oregon",6
-"Oregon",93
-"Oregon",261
-"Oregon",127
-"Oregon",43
-"Oregon",1264
-"Oregon",27
-"Oregon",1714
-"Oregon",131
-"Oregon",1
-"Oregon",6
-"Oregon",230
-"Oregon",253
-"Oregon",5
-"Oregon",42
-"Oregon",992
-"Oregon",0
-"Oregon",97
-"Pennsylvania",314
-"Pennsylvania",2175
-"Pennsylvania",69
-"Pennsylvania",624
-"Pennsylvania",66
-"Pennsylvania",4407
-"Pennsylvania",58
-"Pennsylvania",50
-"Pennsylvania",5547
-"Pennsylvania",268
-"Pennsylvania",61
-"Pennsylvania",2
-"Pennsylvania",267
-"Pennsylvania",180
-"Pennsylvania",3486
-"Pennsylvania",31
-"Pennsylvania",66
-"Pennsylvania",70
-"Pennsylvania",392
-"Pennsylvania",40
-"Pennsylvania",786
-"Pennsylvania",1762
-"Pennsylvania",7038
-"Pennsylvania",8
-"Pennsylvania",532
-"Pennsylvania",104
-"Pennsylvania",7
-"Pennsylvania",879
-"Pennsylvania",18
-"Pennsylvania",35
-"Pennsylvania",240
-"Pennsylvania",98
-"Pennsylvania",20
-"Pennsylvania",108
-"Pennsylvania",1622
-"Pennsylvania",3999
-"Pennsylvania",90
-"Pennsylvania",1251
-"Pennsylvania",4085
-"Pennsylvania",2864
-"Pennsylvania",173
-"Pennsylvania",14
-"Pennsylvania",119
-"Pennsylvania",61
-"Pennsylvania",1376
-"Pennsylvania",8103
-"Pennsylvania",68
-"Pennsylvania",3309
-"Pennsylvania",271
-"Pennsylvania",83
-"Pennsylvania",24841
-"Pennsylvania",489
-"Pennsylvania",13
-"Pennsylvania",714
-"Pennsylvania",61
-"Pennsylvania",47
-"Pennsylvania",3
-"Pennsylvania",178
-"Pennsylvania",22
-"Pennsylvania",88
-"Pennsylvania",17
-"Pennsylvania",5
-"Pennsylvania",168
-"Pennsylvania",130
-"Pennsylvania",530
-"Pennsylvania",37
-"Pennsylvania",1296
-"Rhode Island",240
-"Rhode Island",1128
-"Rhode Island",277
-"Rhode Island",12363
-"Rhode Island",516
-"South Carolina",88
-"South Carolina",274
-"South Carolina",45
-"South Carolina",441
-"South Carolina",66
-"South Carolina",59
-"South Carolina",857
-"South Carolina",599
-"South Carolina",69
-"South Carolina",1836
-"South Carolina",106
-"South Carolina",138
-"South Carolina",311
-"South Carolina",359
-"South Carolina",244
-"South Carolina",376
-"South Carolina",226
-"South Carolina",387
-"South Carolina",69
-"South Carolina",257
-"South Carolina",921
-"South Carolina",258
-"South Carolina",3670
-"South Carolina",371
-"South Carolina",54
-"South Carolina",1931
-"South Carolina",76
-"South Carolina",531
-"South Carolina",322
-"South Carolina",237
-"South Carolina",254
-"South Carolina",1491
-"South Carolina",11
-"South Carolina",146
-"South Carolina",267
-"South Carolina",132
-"South Carolina",136
-"South Carolina",506
-"South Carolina",499
-"South Carolina",2663
-"South Carolina",183
-"South Carolina",1200
-"South Carolina",791
-"South Carolina",58
-"South Carolina",333
-"South Carolina",813
-"South Dakota",34
-"South Dakota",494
-"South Dakota",2
-"South Dakota",11
-"South Dakota",51
-"South Dakota",324
-"South Dakota",15
-"South Dakota",66
-"South Dakota",0
-"South Dakota",0
-"South Dakota",48
-"South Dakota",11
-"South Dakota",73
-"South Dakota",49
-"South Dakota",15
-"South Dakota",7
-"South Dakota",35
-"South Dakota",13
-"South Dakota",1
-"South Dakota",4
-"South Dakota",4
-"South Dakota",5
-"South Dakota",6
-"South Dakota",22
-"South Dakota",13
-"South Dakota",1
-"South Dakota",0
-"South Dakota",10
-"South Dakota",7
-"South Dakota",4
-"South Dakota",0
-"South Dakota",32
-"South Dakota",10
-"South Dakota",3
-"South Dakota",6
-"South Dakota",39
-"South Dakota",0
-"South Dakota",5
-"South Dakota",17
-"South Dakota",16
-"South Dakota",323
-"South Dakota",47
-"South Dakota",8
-"South Dakota",4
-"South Dakota",5
-"South Dakota",42
-"South Dakota",2
-"South Dakota",5
-"South Dakota",3523
-"South Dakota",21
-"South Dakota",55
-"South Dakota",457
-"South Dakota",0
-"South Dakota",0
-"South Dakota",40
-"South Dakota",12
-"South Dakota",7
-"South Dakota",12
-"South Dakota",1
-"South Dakota",50
-"South Dakota",12
-"South Dakota",24
-"South Dakota",117
-"South Dakota",7
-"South Dakota",68
-"South Dakota",2
-"Tennessee",74
-"Tennessee",430
-"Tennessee",8
-"Tennessee",613
-"Tennessee",127
-"Tennessee",338
-"Tennessee",26
-"Tennessee",23
-"Tennessee",36
-"Tennessee",30
-"Tennessee",165
-"Tennessee",14
-"Tennessee",16
-"Tennessee",13
-"Tennessee",29
-"Tennessee",99
-"Tennessee",25
-"Tennessee",142
-"Tennessee",7668
-"Tennessee",15
-"Tennessee",43
-"Tennessee",147
-"Tennessee",158
-"Tennessee",195
-"Tennessee",15
-"Tennessee",67
-"Tennessee",77
-"Tennessee",24
-"Tennessee",25
-"Tennessee",55
-"Tennessee",46
-"Tennessee",117
-"Tennessee",2074
-"Tennessee",3
-"Tennessee",255
-"Tennessee",57
-"Tennessee",39
-"Tennessee",45
-"Tennessee",21
-"Tennessee",36
-"Tennessee",64
-"Tennessee",10
-"Tennessee",18
-"Tennessee",21
-"Tennessee",61
-"Tennessee",26
-"Tennessee",656
-"Tennessee",689
-"Tennessee",72
-"Tennessee",81
-"Tennessee",5
-"Tennessee",49
-"Tennessee",232
-"Tennessee",173
-"Tennessee",40
-"Tennessee",222
-"Tennessee",193
-"Tennessee",50
-"Tennessee",46
-"Tennessee",220
-"Tennessee",31
-"Tennessee",108
-"Tennessee",384
-"Tennessee",5
-"Tennessee",22
-"Tennessee",71
-"Tennessee",42
-"Tennessee",28
-"Tennessee",4
-"Tennessee",32
-"Tennessee",663
-"Tennessee",256
-"Tennessee",34
-"Tennessee",705
-"Tennessee",2060
-"Tennessee",14
-"Tennessee",24
-"Tennessee",420
-"Tennessee",7916
-"Tennessee",50
-"Tennessee",17
-"Tennessee",72
-"Tennessee",1181
-"Tennessee",562
-"Tennessee",1466
-"Tennessee",52
-"Tennessee",10
-"Tennessee",5
-"Tennessee",34
-"Tennessee",102
-"Tennessee",64
-"Tennessee",42
-"Tennessee",54
-"Tennessee",782
-"Tennessee",616
-"Texas",1006
-"Texas",44
-"Texas",380
-"Texas",7
-"Texas",3
-"Texas",3
-"Texas",70
-"Texas",45
-"Texas",83
-"Texas",15
-"Texas",340
-"Texas",1
-"Texas",36
-"Texas",822
-"Texas",6344
-"Texas",14
-"Texas",0
-"Texas",10
-"Texas",400
-"Texas",1728
-"Texas",1225
-"Texas",24
-"Texas",1
-"Texas",3
-"Texas",62
-"Texas",55
-"Texas",80
-"Texas",216
-"Texas",55
-"Texas",13
-"Texas",1546
-"Texas",110
-"Texas",6
-"Texas",36
-"Texas",51
-"Texas",156
-"Texas",67
-"Texas",6
-"Texas",5
-"Texas",1
-"Texas",4
-"Texas",3
-"Texas",2189
-"Texas",5
-"Texas",55
-"Texas",280
-"Texas",14
-"Texas",2
-"Texas",27
-"Texas",310
-"Texas",4
-"Texas",46
-"Texas",5
-"Texas",8
-"Texas",1
-"Texas",49
-"Texas",16845
-"Texas",45
-"Texas",233
-"Texas",4
-"Texas",2113
-"Texas",37
-"Texas",2
-"Texas",3
-"Texas",27
-"Texas",5
-"Texas",7
-"Texas",325
-"Texas",0
-"Texas",510
-"Texas",4488
-"Texas",44
-"Texas",22
-"Texas",65
-"Texas",60
-"Texas",2
-"Texas",18
-"Texas",0
-"Texas",2951
-"Texas",33
-"Texas",19
-"Texas",139
-"Texas",14
-"Texas",1784
-"Texas",7
-"Texas",17
-"Texas",5
-"Texas",7
-"Texas",215
-"Texas",113
-"Texas",514
-"Texas",305
-"Texas",301
-"Texas",323
-"Texas",139
-"Texas",2
-"Texas",18
-"Texas",23
-"Texas",4
-"Texas",172
-"Texas",21053
-"Texas",272
-"Texas",13
-"Texas",4
-"Texas",1608
-"Texas",2
-"Texas",97
-"Texas",1556
-"Texas",48
-"Texas",29
-"Texas",35
-"Texas",50
-"Texas",148
-"Texas",26
-"Texas",14
-"Texas",258
-"Texas",49
-"Texas",1
-"Texas",4
-"Texas",25
-"Texas",36
-"Texas",0
-"Texas",1393
-"Texas",9
-"Texas",27
-"Texas",254
-"Texas",650
-"Texas",14
-"Texas",360
-"Texas",44
-"Texas",0
-"Texas",0
-"Texas",33
-"Texas",1
-"Texas",0
-"Texas",2
-"Texas",27
-"Texas",1
-"Texas",205
-"Texas",29
-"Texas",17
-"Texas",7
-"Texas",85
-"Texas",49
-"Texas",15
-"Texas",182
-"Texas",41
-"Texas",9
-"Texas",10
-"Texas",5
-"Texas",0
-"Texas",1288
-"Texas",21
-"Texas",5
-"Texas",303
-"Texas",0
-"Texas",28
-"Texas",21
-"Texas",6
-"Texas",33
-"Texas",109
-"Texas",223
-"Texas",250
-"Texas",0
-"Texas",322
-"Texas",57
-"Texas",1
-"Texas",2
-"Texas",12
-"Texas",1555
-"Texas",877
-"Texas",34
-"Texas",1
-"Texas",345
-"Texas",120
-"Texas",8
-"Texas",10
-"Texas",597
-"Texas",53
-"Texas",4
-"Texas",143
-"Texas",14
-"Texas",209
-"Texas",124
-"Texas",155
-"Texas",112
-"Texas",75
-"Texas",2822
-"Texas",11
-"Texas",8
-"Texas",775
-"Texas",2
-"Texas",1
-"Texas",99
-"Texas",14
-"Texas",6
-"Texas",2
-"Texas",27
-"Texas",264
-"Texas",3
-"Texas",250
-"Texas",19
-"Texas",87
-"Texas",23
-"Texas",66
-"Texas",2
-"Texas",12
-"Texas",29
-"Texas",1
-"Texas",254
-"Texas",30
-"Texas",340
-"Texas",3
-"Texas",267
-"Texas",5
-"Texas",0
-"Texas",0
-"Texas",1
-"Texas",23
-"Texas",8955
-"Texas",282
-"Texas",0
-"Texas",14
-"Texas",1
-"Texas",729
-"Texas",239
-"Texas",5704
-"Texas",23
-"Texas",18
-"Texas",43
-"Texas",1
-"Texas",37
-"Texas",59
-"Texas",54
-"Texas",241
-"Texas",1912
-"Texas",110
-"Texas",8
-"Texas",229
-"Texas",874
-"Texas",118
-"Texas",16
-"Texas",169
-"Texas",7
-"Texas",87
-"Texas",1337
-"Texas",72
-"Texas",6
-"Texas",62
-"Texas",71
-"Texas",13
-"Texas",16
-"Texas",33
-"Texas",13
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",856
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",0
-"Utah",8878
-"Utah",383
-"Utah",0
-"Utah",0
-"Utah",463
-"Utah",199
-"Utah",0
-"Utah",3136
-"Utah",380
-"Utah",0
-"Utah",0
-"Utah",0
-"Vermont",67
-"Vermont",69
-"Vermont",18
-"Vermont",586
-"Vermont",3
-"Vermont",102
-"Vermont",8
-"Vermont",30
-"Vermont",9
-"Vermont",14
-"Vermont",61
-"Vermont",41
-"Vermont",91
-"Vermont",55
-"Virginia",1031
-"Virginia",334
-"Virginia",30
-"Virginia",41
-"Virginia",29
-"Virginia",36
-"Virginia",2418
-"Virginia",169
-"Virginia",0
-"Virginia",99
-"Virginia",2
-"Virginia",58
-"Virginia",91
-"Virginia",18
-"Virginia",552
-"Virginia",32
-"Virginia",126
-"Virginia",188
-"Virginia",37
-"Virginia",31
-"Virginia",2557
-"Virginia",45
-"Virginia",6
-"Virginia",795
-"Virginia",50
-"Virginia",1
-"Virginia",121
-"Virginia",54
-"Virginia",13419
-"Virginia",404
-"Virginia",14
-"Virginia",105
-"Virginia",50
-"Virginia",456
-"Virginia",7
-"Virginia",42
-"Virginia",115
-"Virginia",79
-"Virginia",49
-"Virginia",343
-"Virginia",39
-"Virginia",403
-"Virginia",2413
-"Virginia",226
-"Virginia",3
-"Virginia",161
-"Virginia",242
-"Virginia",24
-"Virginia",96
-"Virginia",36
-"Virginia",12
-"Virginia",9
-"Virginia",3585
-"Virginia",109
-"Virginia",22
-"Virginia",43
-"Virginia",5
-"Virginia",234
-"Virginia",15
-"Virginia",110
-"Virginia",18
-"Virginia",49
-"Virginia",270
-"Virginia",28
-"Virginia",79
-"Virginia",137
-"Virginia",263
-"Virginia",38
-"Virginia",85
-"Virginia",62
-"Virginia",173
-"Virginia",213
-"Virginia",6879
-"Virginia",36
-"Virginia",16
-"Virginia",317
-"Virginia",171
-"Virginia",18
-"Virginia",653
-"Virginia",9
-"Virginia",8
-"Virginia",540
-"Virginia",32
-"Virginia",154
-"Virginia",902
-"Virginia",924
-"Virginia",13
-"Virginia",185
-"Virginia",9
-"Virginia",254
-"Virginia",60
-"Virginia",91
-"Virginia",27
-"Virginia",44
-"Virginia",99
-"Virginia",2227
-"Virginia",4
-"Virginia",12
-"Virginia",169
-"Virginia",733
-"Virginia",131
-"Virginia",4
-"Virginia",73
-"Virginia",112
-"Virginia",68
-"Virginia",59
-"Virginia",45
-"Virginia",227
-"Virginia",223
-"Virginia",264
-"Virginia",889
-"Virginia",151
-"Virginia",9
-"Virginia",108
-"Virginia",1363
-"Virginia",410
-"Virginia",59
-"Virginia",438
-"Virginia",737
-"Virginia",2
-"Virginia",198
-"Virginia",16
-"Virginia",406
-"Virginia",10
-"Virginia",1985
-"Virginia",313
-"Virginia",50
-"Virginia",66
-"Virginia",365
-"Virginia",988
-"Virginia",63
-"Virginia",54
-"Virginia",286
-"Washington",102
-"Washington",20
-"Washington",1426
-"Washington",285
-"Washington",33
-"Washington",647
-"Washington",2
-"Washington",145
-"Washington",193
-"Washington",1
-"Washington",1278
-"Washington",0
-"Washington",373
-"Washington",24
-"Washington",188
-"Washington",33
-"Washington",9211
-"Washington",190
-"Washington",98
-"Washington",51
-"Washington",49
-"Washington",2
-"Washington",42
-"Washington",63
-"Washington",12
-"Washington",3
-"Washington",2281
-"Washington",18
-"Washington",485
-"Washington",5
-"Washington",3237
-"Washington",974
-"Washington",17
-"Washington",211
-"Washington",4
-"Washington",135
-"Washington",499
-"Washington",30
-"Washington",6283
-"West Virginia",12
-"West Virginia",432
-"West Virginia",20
-"West Virginia",3
-"West Virginia",6
-"West Virginia",83
-"West Virginia",2
-"West Virginia",10
-"West Virginia",0
-"West Virginia",58
-"West Virginia",10
-"West Virginia",16
-"West Virginia",50
-"West Virginia",40
-"West Virginia",21
-"West Virginia",41
-"West Virginia",49
-"West Virginia",141
-"West Virginia",215
-"West Virginia",266
-"West Virginia",15
-"West Virginia",5
-"West Virginia",21
-"West Virginia",6
-"West Virginia",55
-"West Virginia",37
-"West Virginia",15
-"West Virginia",22
-"West Virginia",53
-"West Virginia",14
-"West Virginia",151
-"West Virginia",9
-"West Virginia",20
-"West Virginia",7
-"West Virginia",70
-"West Virginia",13
-"West Virginia",4
-"West Virginia",24
-"West Virginia",61
-"West Virginia",44
-"West Virginia",32
-"West Virginia",150
-"West Virginia",3
-"West Virginia",12
-"West Virginia",1
-"West Virginia",13
-"West Virginia",5
-"West Virginia",3
-"West Virginia",11
-"West Virginia",106
-"West Virginia",0
-"West Virginia",9
-"West Virginia",4
-"West Virginia",56
-"West Virginia",7
-"Wisconsin",10
-"Wisconsin",3
-"Wisconsin",31
-"Wisconsin",3
-"Wisconsin",2580
-"Wisconsin",6
-"Wisconsin",2
-"Wisconsin",92
-"Wisconsin",69
-"Wisconsin",58
-"Wisconsin",68
-"Wisconsin",31
-"Wisconsin",1098
-"Wisconsin",434
-"Wisconsin",40
-"Wisconsin",20
-"Wisconsin",29
-"Wisconsin",161
-"Wisconsin",2
-"Wisconsin",290
-"Wisconsin",35
-"Wisconsin",125
-"Wisconsin",80
-"Wisconsin",24
-"Wisconsin",21
-"Wisconsin",2
-"Wisconsin",24
-"Wisconsin",177
-"Wisconsin",28
-"Wisconsin",1416
-"Wisconsin",44
-"Wisconsin",250
-"Wisconsin",54
-"Wisconsin",7
-"Wisconsin",8
-"Wisconsin",68
-"Wisconsin",111
-"Wisconsin",42
-"Wisconsin",9
-"Wisconsin",4
-"Wisconsin",10267
-"Wisconsin",46
-"Wisconsin",46
-"Wisconsin",17
-"Wisconsin",396
-"Wisconsin",207
-"Wisconsin",1
-"Wisconsin",57
-"Wisconsin",40
-"Wisconsin",91
-"Wisconsin",2
-"Wisconsin",2081
-"Wisconsin",15
-"Wisconsin",791
-"Wisconsin",11
-"Wisconsin",128
-"Wisconsin",96
-"Wisconsin",9
-"Wisconsin",68
-"Wisconsin",185
-"Wisconsin",9
-"Wisconsin",91
-"Wisconsin",29
-"Wisconsin",10
-"Wisconsin",498
-"Wisconsin",4
-"Wisconsin",321
-"Wisconsin",1003
-"Wisconsin",91
-"Wisconsin",20
-"Wisconsin",601
-"Wisconsin",32
-"Wyoming",28
-"Wyoming",11
-"Wyoming",47
-"Wyoming",22
-"Wyoming",24
-"Wyoming",6
-"Wyoming",329
-"Wyoming",5
-"Wyoming",12
-"Wyoming",19
-"Wyoming",204
-"Wyoming",16
-"Wyoming",96
-"Wyoming",2
-"Wyoming",11
-"Wyoming",1
-"Wyoming",19
-"Wyoming",4
-"Wyoming",53
-"Wyoming",110
-"Wyoming",138
-"Wyoming",39
-"Wyoming",1
-"Alabama",0
-"Alaska",0
-"Arizona",0
-"Arkansas",0
-"California",0
-"Colorado",0
-"Connecticut",0
-"Delaware",0
-"District of Columbia",0
-"Florida",0
-"Georgia",3208
-"Hawaii",12
-"Idaho",0
-"Illinois",10
-"Indiana",0
-"Iowa",0
-"Kansas",0
-"Kentucky",0
-"Louisiana",0
-"Maine",0
-"Maryland",0
-"Massachusetts",0
-"Michigan",53
-"Minnesota",0
-"Mississippi",0
-"Missouri",0
-"Montana",0
-"Nebraska",0
-"Nevada",0
-"New Hampshire",0
-"New Jersey",0
-"New Mexico",0
-"New York",0
-"North Carolina",0
-"North Dakota",0
-"Ohio",0
-"Oklahoma",0
-"Oregon",0
-"Pennsylvania",0
-"Rhode Island",0
-"South Carolina",0
-"South Dakota",0
-"Tennessee",650
-"Texas",0
-"Utah",0
-"Vermont",0
-"Virginia",0
-"Washington",0
-"West Virginia",0
-"Wisconsin",0
-"Wyoming",0
-"Diamond Princess",49
-"Alabama",423
-"Alaska",0
-"Arizona",0
-"Arkansas",571
-"California",0
-"Colorado",0
-"Connecticut",273
-"Delaware",20
-"District of Columbia",0
-"Florida",118
-"Georgia",1958
-"Hawaii",0
-"Idaho",2
-"Illinois",49
-"Indiana",0
-"Iowa",5
-"Kansas",0
-"Kentucky",21
-"Louisiana",8
-"Maine",1
-"Maryland",0
-"Massachusetts",303
-"Michigan",2
-"Minnesota",82
-"Mississippi",0
-"Missouri",0
-"Montana",0
-"Nebraska",187
-"Nevada",0
-"New Hampshire",2
-"New Jersey",83
-"New Mexico",863
-"New York",0
-"North Carolina",0
-"North Dakota",0
-"Ohio",0
-"Oklahoma",0
-"Oregon",0
-"Pennsylvania",0
-"Rhode Island",1813
-"South Carolina",0
-"South Dakota",0
-"Tennessee",206
-"Texas",0
-"Utah",0
-"Vermont",5
-"Virginia",0
-"Washington",30
-"West Virginia",0
-"Wisconsin",0
-"Wyoming",0
-"Grand Princess",103
-"Massachusetts",57
-"Missouri",1921
-"Michigan",4083
-"Michigan",168
-"Utah",1274
-"Utah",102
-"Utah",31
-"Utah",1056
-"Utah",38
-"Utah",666
+Province_State,7/21/2020
+American Samoa,0
+Guam,330
+Northern Mariana Islands,38
+Puerto Rico,72
+Puerto Rico,78
+Puerto Rico,121
+Puerto Rico,83
+Puerto Rico,62
+Puerto Rico,92
+Puerto Rico,193
+Puerto Rico,67
+Puerto Rico,40
+Puerto Rico,135
+Puerto Rico,792
+Puerto Rico,142
+Puerto Rico,439
+Puerto Rico,70
+Puerto Rico,228
+Puerto Rico,647
+Puerto Rico,102
+Puerto Rico,138
+Puerto Rico,43
+Puerto Rico,83
+Puerto Rico,103
+Puerto Rico,75
+Puerto Rico,84
+Puerto Rico,89
+Puerto Rico,13
+Puerto Rico,186
+Puerto Rico,135
+Puerto Rico,88
+Puerto Rico,51
+Puerto Rico,104
+Puerto Rico,94
+Puerto Rico,553
+Puerto Rico,156
+Puerto Rico,65
+Puerto Rico,68
+Puerto Rico,125
+Puerto Rico,84
+Puerto Rico,169
+Puerto Rico,135
+Puerto Rico,75
+Puerto Rico,60
+Puerto Rico,103
+Puerto Rico,34
+Puerto Rico,107
+Puerto Rico,65
+Puerto Rico,73
+Puerto Rico,101
+Puerto Rico,36
+Puerto Rico,39
+Puerto Rico,336
+Puerto Rico,99
+Puerto Rico,134
+Puerto Rico,64
+Puerto Rico,125
+Puerto Rico,119
+Puerto Rico,77
+Puerto Rico,48
+Puerto Rico,325
+Puerto Rico,55
+Puerto Rico,69
+Puerto Rico,172
+Puerto Rico,94
+Puerto Rico,124
+Puerto Rico,112
+Puerto Rico,1721
+Puerto Rico,98
+Puerto Rico,141
+Puerto Rico,73
+Puerto Rico,292
+Puerto Rico,287
+Puerto Rico,281
+Puerto Rico,43
+Puerto Rico,129
+Puerto Rico,216
+Puerto Rico,30
+Puerto Rico,64
+Puerto Rico,64
+Puerto Rico,151
+Virgin Islands,320
+Alabama,863
+Alabama,2164
+Alabama,487
+Alabama,282
+Alabama,498
+Alabama,402
+Alabama,693
+Alabama,870
+Alabama,748
+Alabama,174
+Alabama,507
+Alabama,244
+Alabama,403
+Alabama,135
+Alabama,82
+Alabama,555
+Alabama,805
+Alabama,299
+Alabama,74
+Alabama,577
+Alabama,205
+Alabama,859
+Alabama,568
+Alabama,1158
+Alabama,1361
+Alabama,1313
+Alabama,697
+Alabama,1440
+Alabama,124
+Alabama,1044
+Alabama,158
+Alabama,225
+Alabama,403
+Alabama,198
+Alabama,950
+Alabama,597
+Alabama,9275
+Alabama,145
+Alabama,815
+Alabama,210
+Alabama,2117
+Alabama,930
+Alabama,524
+Alabama,269
+Alabama,3741
+Alabama,438
+Alabama,441
+Alabama,2461
+Alabama,6443
+Alabama,332
+Alabama,5329
+Alabama,1784
+Alabama,351
+Alabama,312
+Alabama,562
+Alabama,338
+Alabama,965
+Alabama,885
+Alabama,2398
+Alabama,325
+Alabama,629
+Alabama,724
+Alabama,3282
+Alabama,1271
+Alabama,234
+Alabama,363
+Alabama,358
+Alaska,1
+Alaska,1
+Alaska,1068
+Alaska,17
+Alaska,6
+Alaska,1
+Alaska,1
+Alaska,331
+Alaska,3
+Alaska,0
+Alaska,71
+Alaska,255
+Alaska,28
+Alaska,5
+Alaska,3
+Alaska,0
+Alaska,205
+Alaska,16
+Alaska,8
+Alaska,9
+Alaska,6
+Alaska,2
+Alaska,18
+Alaska,0
+Alaska,12
+Alaska,29
+Alaska,3
+Alaska,0
+Alaska,32
+Arizona,2797
+Arizona,1296
+Arizona,2736
+Arizona,600
+Arizona,314
+Arizona,39
+Arizona,445
+Arizona,100543
+Arizona,2464
+Arizona,4898
+Arizona,13990
+Arizona,6910
+Arizona,2401
+Arizona,1463
+Arizona,9713
+Arkansas,146
+Arkansas,142
+Arkansas,48
+Arkansas,3985
+Arkansas,83
+Arkansas,104
+Arkansas,8
+Arkansas,294
+Arkansas,266
+Arkansas,107
+Arkansas,94
+Arkansas,160
+Arkansas,49
+Arkansas,147
+Arkansas,117
+Arkansas,828
+Arkansas,379
+Arkansas,994
+Arkansas,124
+Arkansas,22
+Arkansas,117
+Arkansas,117
+Arkansas,970
+Arkansas,60
+Arkansas,21
+Arkansas,549
+Arkansas,94
+Arkansas,191
+Arkansas,145
+Arkansas,1367
+Arkansas,209
+Arkansas,126
+Arkansas,29
+Arkansas,47
+Arkansas,1069
+Arkansas,515
+Arkansas,41
+Arkansas,148
+Arkansas,867
+Arkansas,1132
+Arkansas,72
+Arkansas,112
+Arkansas,276
+Arkansas,238
+Arkansas,17
+Arkansas,368
+Arkansas,489
+Arkansas,36
+Arkansas,16
+Arkansas,117
+Arkansas,18
+Arkansas,55
+Arkansas,39
+Arkansas,219
+Arkansas,43
+Arkansas,109
+Arkansas,106
+Arkansas,937
+Arkansas,52
+Arkansas,3923
+Arkansas,115
+Arkansas,968
+Arkansas,637
+Arkansas,21
+Arkansas,20
+Arkansas,1214
+Arkansas,880
+Arkansas,83
+Arkansas,37
+Arkansas,335
+Arkansas,40
+Arkansas,5350
+Arkansas,182
+Arkansas,17
+Arkansas,928
+California,9643
+California,2
+California,65
+California,683
+California,94
+California,242
+California,6202
+California,79
+California,486
+California,11412
+California,251
+California,200
+California,8799
+California,41
+California,11188
+California,3465
+California,158
+California,515
+California,165134
+California,1530
+California,4490
+California,41
+California,217
+California,2994
+California,0
+California,84
+California,3545
+California,685
+California,242
+California,31743
+California,1479
+California,27
+California,31982
+California,7971
+California,494
+California,25775
+California,25107
+California,5459
+California,9595
+California,1393
+California,4776
+California,5282
+California,8321
+California,848
+California,268
+California,1
+California,55
+California,2982
+California,2241
+California,6984
+California,553
+California,165
+California,3
+California,7603
+California,109
+California,6049
+California,1225
+California,309
+Colorado,5248
+Colorado,214
+Colorado,6197
+Colorado,24
+Colorado,14
+Colorado,5
+Colorado,1683
+Colorado,371
+Colorado,220
+Colorado,7
+Colorado,24
+Colorado,21
+Colorado,22
+Colorado,73
+Colorado,10
+Colorado,92
+Colorado,8650
+Colorado,2
+Colorado,1410
+Colorado,884
+Colorado,75
+Colorado,3786
+Colorado,82
+Colorado,561
+Colorado,13
+Colorado,39
+Colorado,216
+Colorado,3
+Colorado,5
+Colorado,8
+Colorado,3395
+Colorado,0
+Colorado,36
+Colorado,60
+Colorado,174
+Colorado,1158
+Colorado,11
+Colorado,6
+Colorado,643
+Colorado,199
+Colorado,17
+Colorado,20
+Colorado,91
+Colorado,245
+Colorado,666
+Colorado,30
+Colorado,12
+Colorado,35
+Colorado,17
+Colorado,162
+Colorado,45
+Colorado,535
+Colorado,6
+Colorado,84
+Colorado,93
+Colorado,106
+Colorado,2
+Colorado,69
+Colorado,11
+Colorado,311
+Colorado,87
+Colorado,46
+Colorado,3293
+Colorado,56
+Connecticut,17164
+Connecticut,12147
+Connecticut,1530
+Connecticut,1362
+Connecticut,12825
+Connecticut,1364
+Connecticut,946
+Connecticut,655
+Delaware,2025
+Delaware,6231
+Delaware,5375
+District of Columbia,11529
+Florida,2809
+Florida,250
+Florida,2269
+Florida,205
+Florida,4561
+Florida,43747
+Florida,230
+Florida,1536
+Florida,911
+Florida,2249
+Florida,8249
+Florida,1523
+Florida,1112
+Florida,203
+Florida,17979
+Florida,6302
+Florida,696
+Florida,81
+Florida,957
+Florida,277
+Florida,289
+Florida,205
+Florida,523
+Florida,726
+Florida,1427
+Florida,1273
+Florida,876
+Florida,24891
+Florida,331
+Florida,1729
+Florida,916
+Florida,122
+Florida,74
+Florida,3594
+Florida,13395
+Florida,3319
+Florida,414
+Florida,320
+Florida,492
+Florida,7078
+Florida,2826
+Florida,3250
+Florida,92345
+Florida,978
+Florida,838
+Florida,2104
+Florida,694
+Florida,24700
+Florida,6687
+Florida,27506
+Florida,5260
+Florida,14191
+Florida,10309
+Florida,1050
+Florida,2670
+Florida,3896
+Florida,2090
+Florida,4567
+Florida,5633
+Florida,881
+Florida,934
+Florida,226
+Florida,161
+Florida,5657
+Florida,341
+Florida,898
+Florida,367
+Georgia,455
+Georgia,246
+Georgia,355
+Georgia,46
+Georgia,770
+Georgia,196
+Georgia,817
+Georgia,1214
+Georgia,284
+Georgia,205
+Georgia,2390
+Georgia,103
+Georgia,181
+Georgia,293
+Georgia,396
+Georgia,834
+Georgia,270
+Georgia,379
+Georgia,178
+Georgia,423
+Georgia,143
+Georgia,1414
+Georgia,423
+Georgia,207
+Georgia,3723
+Georgia,504
+Georgia,101
+Georgia,2267
+Georgia,1306
+Georgia,68
+Georgia,3630
+Georgia,141
+Georgia,8966
+Georgia,1080
+Georgia,1377
+Georgia,1323
+Georgia,301
+Georgia,1056
+Georgia,68
+Georgia,340
+Georgia,89
+Georgia,210
+Georgia,417
+Georgia,10203
+Georgia,179
+Georgia,226
+Georgia,2365
+Georgia,1853
+Georgia,337
+Georgia,217
+Georgia,444
+Georgia,247
+Georgia,271
+Georgia,128
+Georgia,206
+Georgia,702
+Georgia,905
+Georgia,1454
+Georgia,308
+Georgia,14169
+Georgia,392
+Georgia,17
+Georgia,1948
+Georgia,723
+Georgia,312
+Georgia,185
+Georgia,14099
+Georgia,890
+Georgia,4620
+Georgia,246
+Georgia,142
+Georgia,530
+Georgia,175
+Georgia,104
+Georgia,2301
+Georgia,1297
+Georgia,117
+Georgia,667
+Georgia,103
+Georgia,232
+Georgia,319
+Georgia,197
+Georgia,187
+Georgia,199
+Georgia,173
+Georgia,185
+Georgia,537
+Georgia,457
+Georgia,437
+Georgia,91
+Georgia,90
+Georgia,2344
+Georgia,222
+Georgia,211
+Georgia,110
+Georgia,153
+Georgia,239
+Georgia,113
+Georgia,293
+Georgia,77
+Georgia,528
+Georgia,324
+Georgia,94
+Georgia,119
+Georgia,412
+Georgia,3550
+Georgia,1263
+Georgia,314
+Georgia,150
+Georgia,1110
+Georgia,209
+Georgia,191
+Georgia,324
+Georgia,146
+Georgia,439
+Georgia,70
+Georgia,279
+Georgia,25
+Georgia,134
+Georgia,229
+Georgia,2437
+Georgia,926
+Georgia,32
+Georgia,138
+Georgia,77
+Georgia,676
+Georgia,442
+Georgia,235
+Georgia,680
+Georgia,108
+Georgia,5
+Georgia,282
+Georgia,54
+Georgia,226
+Georgia,268
+Georgia,755
+Georgia,1089
+Georgia,444
+Georgia,85
+Georgia,62
+Georgia,1957
+Georgia,204
+Georgia,61
+Georgia,147
+Georgia,434
+Georgia,419
+Georgia,675
+Georgia,914
+Georgia,44
+Georgia,254
+Georgia,443
+Georgia,35
+Georgia,76
+Georgia,236
+Georgia,2410
+Georgia,148
+Georgia,150
+Georgia,145
+Georgia,383
+Hawaii,114
+Hawaii,1117
+Hawaii,0
+Hawaii,43
+Hawaii,139
+Idaho,6423
+Idaho,15
+Idaho,221
+Idaho,3
+Idaho,37
+Idaho,129
+Idaho,562
+Idaho,25
+Idaho,103
+Idaho,394
+Idaho,19
+Idaho,0
+Idaho,1
+Idaho,3598
+Idaho,21
+Idaho,383
+Idaho,1
+Idaho,8
+Idaho,7
+Idaho,131
+Idaho,37
+Idaho,31
+Idaho,107
+Idaho,100
+Idaho,22
+Idaho,61
+Idaho,361
+Idaho,1161
+Idaho,56
+Idaho,7
+Idaho,1
+Idaho,44
+Idaho,108
+Idaho,328
+Idaho,120
+Idaho,7
+Idaho,166
+Idaho,259
+Idaho,25
+Idaho,32
+Idaho,49
+Idaho,960
+Idaho,40
+Idaho,159
+Illinois,286
+Illinois,32
+Illinois,29
+Illinois,663
+Illinois,11
+Illinois,62
+Illinois,3
+Illinois,24
+Illinois,160
+Illinois,1293
+Illinois,60
+Illinois,50
+Illinois,9
+Illinois,278
+Illinois,261
+Illinois,100124
+Illinois,26
+Illinois,36
+Illinois,728
+Illinois,24
+Illinois,89
+Illinois,10531
+Illinois,18
+Illinois,6
+Illinois,48
+Illinois,39
+Illinois,33
+Illinois,79
+Illinois,20
+Illinois,23
+Illinois,13
+Illinois,226
+Illinois,11
+Illinois,22
+Illinois,9
+Illinois,8
+Illinois,146
+Illinois,201
+Illinois,434
+Illinois,49
+Illinois,138
+Illinois,56
+Illinois,80
+Illinois,42
+Illinois,8481
+Illinois,1534
+Illinois,1151
+Illinois,199
+Illinois,11079
+Illinois,362
+Illinois,30
+Illinois,120
+Illinois,63
+Illinois,57
+Illinois,119
+Illinois,2559
+Illinois,418
+Illinois,288
+Illinois,100
+Illinois,1604
+Illinois,97
+Illinois,15
+Illinois,36
+Illinois,24
+Illinois,36
+Illinois,39
+Illinois,205
+Illinois,112
+Illinois,146
+Illinois,33
+Illinois,345
+Illinois,878
+Illinois,73
+Illinois,30
+Illinois,9
+Illinois,2
+Illinois,88
+Illinois,3
+Illinois,374
+Illinois,9
+Illinois,1375
+Illinois,2883
+Illinois,60
+Illinois,717
+Illinois,14
+Illinois,4
+Illinois,31
+Illinois,7
+Illinois,292
+Illinois,243
+Illinois,255
+Illinois,141
+Illinois,25
+Illinois,158
+Illinois,35
+Illinois,27
+Illinois,33
+Illinois,246
+Illinois,7845
+Illinois,218
+Illinois,3386
+Illinois,66
+Indiana,63
+Indiana,3217
+Indiana,648
+Indiana,54
+Indiana,45
+Indiana,554
+Indiana,58
+Indiana,120
+Indiana,1677
+Indiana,821
+Indiana,73
+Indiana,313
+Indiana,37
+Indiana,178
+Indiana,355
+Indiana,266
+Indiana,180
+Indiana,518
+Indiana,469
+Indiana,4150
+Indiana,121
+Indiana,510
+Indiana,47
+Indiana,153
+Indiana,100
+Indiana,170
+Indiana,421
+Indiana,210
+Indiana,2032
+Indiana,528
+Indiana,235
+Indiana,1574
+Indiana,328
+Indiana,687
+Indiana,112
+Indiana,510
+Indiana,164
+Indiana,73
+Indiana,136
+Indiana,188
+Indiana,1476
+Indiana,93
+Indiana,711
+Indiana,504
+Indiana,6379
+Indiana,706
+Indiana,283
+Indiana,720
+Indiana,13094
+Indiana,682
+Indiana,36
+Indiana,218
+Indiana,496
+Indiana,307
+Indiana,367
+Indiana,102
+Indiana,579
+Indiana,33
+Indiana,150
+Indiana,60
+Indiana,35
+Indiana,161
+Indiana,21
+Indiana,954
+Indiana,128
+Indiana,69
+Indiana,197
+Indiana,85
+Indiana,160
+Indiana,73
+Indiana,2605
+Indiana,202
+Indiana,480
+Indiana,95
+Indiana,141
+Indiana,165
+Indiana,65
+Indiana,36
+Indiana,907
+Indiana,52
+Indiana,20
+Indiana,1236
+Indiana,20
+Indiana,317
+Indiana,132
+Indiana,17
+Indiana,381
+Indiana,77
+Indiana,219
+Indiana,103
+Indiana,307
+Indiana,122
+Iowa,21
+Iowa,12
+Iowa,143
+Iowa,34
+Iowa,22
+Iowa,99
+Iowa,2744
+Iowa,194
+Iowa,147
+Iowa,81
+Iowa,1760
+Iowa,87
+Iowa,71
+Iowa,148
+Iowa,30
+Iowa,104
+Iowa,473
+Iowa,92
+Iowa,40
+Iowa,154
+Iowa,161
+Iowa,66
+Iowa,190
+Iowa,688
+Iowa,1600
+Iowa,46
+Iowa,15
+Iowa,67
+Iowa,120
+Iowa,350
+Iowa,1265
+Iowa,122
+Iowa,66
+Iowa,95
+Iowa,157
+Iowa,16
+Iowa,37
+Iowa,58
+Iowa,112
+Iowa,215
+Iowa,93
+Iowa,113
+Iowa,73
+Iowa,100
+Iowa,43
+Iowa,72
+Iowa,27
+Iowa,69
+Iowa,105
+Iowa,416
+Iowa,68
+Iowa,1676
+Iowa,103
+Iowa,24
+Iowa,73
+Iowa,64
+Iowa,1667
+Iowa,373
+Iowa,39
+Iowa,84
+Iowa,78
+Iowa,129
+Iowa,112
+Iowa,1218
+Iowa,63
+Iowa,70
+Iowa,82
+Iowa,63
+Iowa,25
+Iowa,744
+Iowa,110
+Iowa,72
+Iowa,38
+Iowa,61
+Iowa,391
+Iowa,109
+Iowa,8644
+Iowa,961
+Iowa,117
+Iowa,19
+Iowa,75
+Iowa,1365
+Iowa,126
+Iowa,545
+Iowa,983
+Iowa,513
+Iowa,85
+Iowa,59
+Iowa,22
+Iowa,769
+Iowa,425
+Iowa,275
+Iowa,11
+Iowa,565
+Iowa,59
+Iowa,63
+Iowa,3495
+Iowa,47
+Iowa,423
+Kansas,11
+Kansas,24
+Kansas,50
+Kansas,4
+Kansas,81
+Kansas,59
+Kansas,27
+Kansas,138
+Kansas,6
+Kansas,5
+Kansas,63
+Kansas,2
+Kansas,38
+Kansas,13
+Kansas,26
+Kansas,61
+Kansas,3
+Kansas,118
+Kansas,351
+Kansas,5
+Kansas,34
+Kansas,39
+Kansas,542
+Kansas,8
+Kansas,1
+Kansas,97
+Kansas,15
+Kansas,1652
+Kansas,1994
+Kansas,123
+Kansas,104
+Kansas,2
+Kansas,9
+Kansas,78
+Kansas,51
+Kansas,3
+Kansas,13
+Kansas,35
+Kansas,6
+Kansas,125
+Kansas,33
+Kansas,10
+Kansas,131
+Kansas,43
+Kansas,7
+Kansas,4053
+Kansas,53
+Kansas,5
+Kansas,6
+Kansas,102
+Kansas,5
+Kansas,1310
+Kansas,5
+Kansas,24
+Kansas,2
+Kansas,586
+Kansas,106
+Kansas,34
+Kansas,7
+Kansas,34
+Kansas,92
+Kansas,25
+Kansas,116
+Kansas,6
+Kansas,9
+Kansas,37
+Kansas,48
+Kansas,5
+Kansas,22
+Kansas,34
+Kansas,3
+Kansas,26
+Kansas,6
+Kansas,40
+Kansas,96
+Kansas,28
+Kansas,0
+Kansas,167
+Kansas,21
+Kansas,16
+Kansas,411
+Kansas,11
+Kansas,5
+Kansas,4
+Kansas,307
+Kansas,22
+Kansas,2918
+Kansas,1149
+Kansas,1223
+Kansas,7
+Kansas,9
+Kansas,3
+Kansas,2
+Kansas,15
+Kansas,40
+Kansas,76
+Kansas,23
+Kansas,5
+Kansas,40
+Kansas,0
+Kansas,2
+Kansas,1
+Kansas,6
+Kansas,11
+Kansas,3822
+Kentucky,171
+Kentucky,205
+Kentucky,41
+Kentucky,26
+Kentucky,214
+Kentucky,24
+Kentucky,174
+Kentucky,871
+Kentucky,60
+Kentucky,129
+Kentucky,62
+Kentucky,24
+Kentucky,18
+Kentucky,38
+Kentucky,221
+Kentucky,283
+Kentucky,41
+Kentucky,139
+Kentucky,421
+Kentucky,16
+Kentucky,128
+Kentucky,75
+Kentucky,122
+Kentucky,367
+Kentucky,122
+Kentucky,121
+Kentucky,14
+Kentucky,21
+Kentucky,20
+Kentucky,595
+Kentucky,84
+Kentucky,7
+Kentucky,8
+Kentucky,2205
+Kentucky,40
+Kentucky,61
+Kentucky,198
+Kentucky,36
+Kentucky,74
+Kentucky,48
+Kentucky,80
+Kentucky,397
+Kentucky,163
+Kentucky,22
+Kentucky,63
+Kentucky,38
+Kentucky,394
+Kentucky,107
+Kentucky,105
+Kentucky,60
+Kentucky,247
+Kentucky,64
+Kentucky,16
+Kentucky,359
+Kentucky,123
+Kentucky,5519
+Kentucky,192
+Kentucky,17
+Kentucky,1100
+Kentucky,27
+Kentucky,143
+Kentucky,31
+Kentucky,273
+Kentucky,21
+Kentucky,3
+Kentucky,16
+Kentucky,26
+Kentucky,26
+Kentucky,75
+Kentucky,27
+Kentucky,278
+Kentucky,25
+Kentucky,267
+Kentucky,21
+Kentucky,35
+Kentucky,287
+Kentucky,9
+Kentucky,85
+Kentucky,98
+Kentucky,20
+Kentucky,45
+Kentucky,52
+Kentucky,19
+Kentucky,34
+Kentucky,20
+Kentucky,65
+Kentucky,89
+Kentucky,24
+Kentucky,584
+Kentucky,159
+Kentucky,16
+Kentucky,300
+Kentucky,413
+Kentucky,24
+Kentucky,4
+Kentucky,28
+Kentucky,141
+Kentucky,166
+Kentucky,31
+Kentucky,164
+Kentucky,2
+Kentucky,44
+Kentucky,46
+Kentucky,79
+Kentucky,193
+Kentucky,635
+Kentucky,113
+Kentucky,63
+Kentucky,73
+Kentucky,30
+Kentucky,38
+Kentucky,25
+Kentucky,40
+Kentucky,2057
+Kentucky,43
+Kentucky,42
+Kentucky,69
+Kentucky,77
+Kentucky,7
+Kentucky,103
+Louisiana,2011
+Louisiana,777
+Louisiana,2077
+Louisiana,463
+Louisiana,741
+Louisiana,529
+Louisiana,327
+Louisiana,1701
+Louisiana,5254
+Louisiana,4742
+Louisiana,166
+Louisiana,147
+Louisiana,235
+Louisiana,186
+Louisiana,208
+Louisiana,534
+Louisiana,8919
+Louisiana,480
+Louisiana,419
+Louisiana,562
+Louisiana,649
+Louisiana,184
+Louisiana,1813
+Louisiana,964
+Louisiana,325
+Louisiana,12812
+Louisiana,845
+Louisiana,5339
+Louisiana,2140
+Louisiana,174
+Louisiana,568
+Louisiana,2097
+Louisiana,499
+Louisiana,358
+Louisiana,548
+Louisiana,9586
+Louisiana,3778
+Louisiana,357
+Louisiana,555
+Louisiana,2492
+Louisiana,136
+Louisiana,409
+Louisiana,417
+Louisiana,874
+Louisiana,1088
+Louisiana,200
+Louisiana,533
+Louisiana,1191
+Louisiana,1655
+Louisiana,1333
+Louisiana,1189
+Louisiana,3954
+Louisiana,2536
+Louisiana,45
+Louisiana,2173
+Louisiana,519
+Louisiana,947
+Louisiana,478
+Louisiana,1033
+Louisiana,721
+Louisiana,490
+Louisiana,211
+Louisiana,313
+Louisiana,339
+Maine,513
+Maine,30
+Maine,1974
+Maine,45
+Maine,21
+Maine,153
+Maine,25
+Maine,31
+Maine,48
+Maine,136
+Maine,4
+Maine,39
+Maine,32
+Maine,60
+Maine,6
+Maine,602
+Maryland,240
+Maryland,6105
+Maryland,10153
+Maryland,503
+Maryland,368
+Maryland,1311
+Maryland,570
+Maryland,1659
+Maryland,288
+Maryland,2797
+Maryland,37
+Maryland,1472
+Maryland,3198
+Maryland,221
+Maryland,16593
+Maryland,20958
+Maryland,340
+Maryland,789
+Maryland,110
+Maryland,268
+Maryland,818
+Maryland,1201
+Maryland,435
+Maryland,9738
+Massachusetts,1644
+Massachusetts,626
+Massachusetts,8761
+Massachusetts,0
+Massachusetts,16815
+Massachusetts,390
+Massachusetts,7180
+Massachusetts,1063
+Massachusetts,25084
+Massachusetts,0
+Massachusetts,9821
+Massachusetts,8917
+Massachusetts,20678
+Massachusetts,12933
+Michigan,27
+Michigan,4
+Michigan,443
+Michigan,125
+Michigan,31
+Michigan,39
+Michigan,5
+Michigan,160
+Michigan,493
+Michigan,24
+Michigan,1155
+Michigan,303
+Michigan,676
+Michigan,237
+Michigan,42
+Michigan,32
+Michigan,25
+Michigan,42
+Michigan,334
+Michigan,92
+Michigan,55
+Michigan,35
+Michigan,394
+Michigan,51
+Michigan,3183
+Michigan,30
+Michigan,45
+Michigan,138
+Michigan,118
+Michigan,220
+Michigan,38
+Michigan,108
+Michigan,1308
+Michigan,242
+Michigan,124
+Michigan,10
+Michigan,186
+Michigan,597
+Michigan,1370
+Michigan,48
+Michigan,6486
+Michigan,2
+Michigan,14
+Michigan,343
+Michigan,56
+Michigan,334
+Michigan,683
+Michigan,3
+Michigan,13
+Michigan,8586
+Michigan,31
+Michigan,107
+Michigan,104
+Michigan,48
+Michigan,61
+Michigan,243
+Michigan,40
+Michigan,754
+Michigan,160
+Michigan,7
+Michigan,1052
+Michigan,232
+Michigan,13644
+Michigan,445
+Michigan,48
+Michigan,1
+Michigan,63
+Michigan,23
+Michigan,128
+Michigan,1524
+Michigan,14
+Michigan,44
+Michigan,1617
+Michigan,668
+Michigan,461
+Michigan,79
+Michigan,8
+Michigan,296
+Michigan,258
+Michigan,325
+Michigan,2169
+Michigan,25520
+Michigan,55
+Minnesota,22
+Minnesota,2790
+Minnesota,85
+Minnesota,115
+Minnesota,274
+Minnesota,20
+Minnesota,710
+Minnesota,61
+Minnesota,107
+Minnesota,602
+Minnesota,33
+Minnesota,87
+Minnesota,135
+Minnesota,679
+Minnesota,14
+Minnesota,2
+Minnesota,150
+Minnesota,137
+Minnesota,3194
+Minnesota,114
+Minnesota,105
+Minnesota,72
+Minnesota,50
+Minnesota,331
+Minnesota,153
+Minnesota,33
+Minnesota,15273
+Minnesota,33
+Minnesota,12
+Minnesota,94
+Minnesota,108
+Minnesota,60
+Minnesota,20
+Minnesota,627
+Minnesota,2
+Minnesota,48
+Minnesota,6
+Minnesota,14
+Minnesota,0
+Minnesota,162
+Minnesota,51
+Minnesota,385
+Minnesota,114
+Minnesota,18
+Minnesota,23
+Minnesota,190
+Minnesota,76
+Minnesota,48
+Minnesota,74
+Minnesota,1019
+Minnesota,104
+Minnesota,243
+Minnesota,1713
+Minnesota,24
+Minnesota,1448
+Minnesota,134
+Minnesota,60
+Minnesota,119
+Minnesota,124
+Minnesota,96
+Minnesota,28
+Minnesota,5890
+Minnesota,5
+Minnesota,27
+Minnesota,44
+Minnesota,924
+Minnesota,45
+Minnesota,34
+Minnesota,299
+Minnesota,1072
+Minnesota,459
+Minnesota,69
+Minnesota,2666
+Minnesota,291
+Minnesota,14
+Minnesota,47
+Minnesota,405
+Minnesota,9
+Minnesota,59
+Minnesota,20
+Minnesota,98
+Minnesota,1550
+Minnesota,282
+Minnesota,23
+Minnesota,193
+Minnesota,652
+Minnesota,37
+Mississippi,455
+Mississippi,190
+Mississippi,151
+Mississippi,432
+Mississippi,84
+Mississippi,634
+Mississippi,303
+Mississippi,225
+Mississippi,350
+Mississippi,97
+Mississippi,359
+Mississippi,263
+Mississippi,310
+Mississippi,465
+Mississippi,783
+Mississippi,498
+Mississippi,2619
+Mississippi,1267
+Mississippi,78
+Mississippi,196
+Mississippi,170
+Mississippi,730
+Mississippi,214
+Mississippi,1573
+Mississippi,3952
+Mississippi,687
+Mississippi,227
+Mississippi,16
+Mississippi,220
+Mississippi,1368
+Mississippi,308
+Mississippi,151
+Mississippi,159
+Mississippi,1432
+Mississippi,204
+Mississippi,633
+Mississippi,845
+Mississippi,1154
+Mississippi,222
+Mississippi,699
+Mississippi,879
+Mississippi,681
+Mississippi,622
+Mississippi,714
+Mississippi,1852
+Mississippi,449
+Mississippi,407
+Mississippi,536
+Mississippi,237
+Mississippi,1129
+Mississippi,452
+Mississippi,341
+Mississippi,712
+Mississippi,617
+Mississippi,391
+Mississippi,143
+Mississippi,649
+Mississippi,538
+Mississippi,219
+Mississippi,138
+Mississippi,1623
+Mississippi,911
+Mississippi,86
+Mississippi,576
+Mississippi,325
+Mississippi,111
+Mississippi,699
+Mississippi,318
+Mississippi,511
+Mississippi,212
+Mississippi,184
+Mississippi,168
+Mississippi,353
+Mississippi,372
+Mississippi,762
+Mississippi,1128
+Mississippi,654
+Mississippi,148
+Mississippi,134
+Mississippi,458
+Mississippi,256
+Mississippi,653
+Missouri,117
+Missouri,69
+Missouri,7
+Missouri,168
+Missouri,173
+Missouri,51
+Missouri,24
+Missouri,38
+Missouri,47
+Missouri,800
+Missouri,997
+Missouri,154
+Missouri,24
+Missouri,83
+Missouri,139
+Missouri,496
+Missouri,53
+Missouri,9
+Missouri,349
+Missouri,29
+Missouri,12
+Missouri,128
+Missouri,2
+Missouri,655
+Missouri,43
+Missouri,186
+Missouri,38
+Missouri,31
+Missouri,9
+Missouri,32
+Missouri,15
+Missouri,22
+Missouri,10
+Missouri,32
+Missouri,168
+Missouri,394
+Missouri,14
+Missouri,71
+Missouri,684
+Missouri,24
+Missouri,37
+Missouri,43
+Missouri,3
+Missouri,2
+Missouri,29
+Missouri,68
+Missouri,6
+Missouri,2115
+Missouri,1323
+Missouri,789
+Missouri,389
+Missouri,4
+Missouri,151
+Missouri,122
+Missouri,110
+Missouri,13
+Missouri,172
+Missouri,25
+Missouri,30
+Missouri,824
+Missouri,36
+Missouri,13
+Missouri,8
+Missouri,58
+Missouri,8
+Missouri,43
+Missouri,121
+Missouri,71
+Missouri,8
+Missouri,24
+Missouri,37
+Missouri,114
+Missouri,699
+Missouri,51
+Missouri,11
+Missouri,27
+Missouri,3
+Missouri,172
+Missouri,184
+Missouri,206
+Missouri,60
+Missouri,49
+Missouri,223
+Missouri,125
+Missouri,162
+Missouri,4
+Missouri,15
+Missouri,23
+Missouri,39
+Missouri,10
+Missouri,34
+Missouri,2012
+Missouri,11
+Missouri,31
+Missouri,214
+Missouri,9624
+Missouri,351
+Missouri,8
+Missouri,11
+Missouri,266
+Missouri,35
+Missouri,8
+Missouri,177
+Missouri,47
+Missouri,125
+Missouri,205
+Missouri,16
+Missouri,41
+Missouri,99
+Missouri,41
+Missouri,5
+Missouri,86
+Missouri,5
+Missouri,52
+Missouri,3635
+Montana,13
+Montana,173
+Montana,6
+Montana,9
+Montana,42
+Montana,0
+Montana,81
+Montana,3
+Montana,43
+Montana,0
+Montana,8
+Montana,8
+Montana,1
+Montana,4
+Montana,149
+Montana,664
+Montana,12
+Montana,35
+Montana,3
+Montana,6
+Montana,34
+Montana,17
+Montana,1
+Montana,116
+Montana,88
+Montana,1
+Montana,48
+Montana,0
+Montana,47
+Montana,4
+Montana,0
+Montana,169
+Montana,1
+Montana,33
+Montana,0
+Montana,0
+Montana,8
+Montana,0
+Montana,0
+Montana,0
+Montana,51
+Montana,37
+Montana,8
+Montana,17
+Montana,5
+Montana,3
+Montana,31
+Montana,15
+Montana,4
+Montana,15
+Montana,31
+Montana,2
+Montana,7
+Montana,2
+Montana,1
+Montana,756
+Nebraska,320
+Nebraska,17
+Nebraska,0
+Nebraska,2
+Nebraska,0
+Nebraska,7
+Nebraska,8
+Nebraska,1
+Nebraska,0
+Nebraska,253
+Nebraska,17
+Nebraska,53
+Nebraska,125
+Nebraska,20
+Nebraska,4
+Nebraska,3
+Nebraska,21
+Nebraska,40
+Nebraska,684
+Nebraska,42
+Nebraska,40
+Nebraska,1877
+Nebraska,4
+Nebraska,892
+Nebraska,1
+Nebraska,56
+Nebraska,727
+Nebraska,9022
+Nebraska,1
+Nebraska,21
+Nebraska,8
+Nebraska,3
+Nebraska,12
+Nebraska,71
+Nebraska,4
+Nebraska,3
+Nebraska,13
+Nebraska,0
+Nebraska,6
+Nebraska,1658
+Nebraska,81
+Nebraska,1
+Nebraska,0
+Nebraska,1
+Nebraska,4
+Nebraska,4
+Nebraska,51
+Nebraska,12
+Nebraska,10
+Nebraska,20
+Nebraska,10
+Nebraska,0
+Nebraska,15
+Nebraska,26
+Nebraska,2605
+Nebraska,69
+Nebraska,0
+Nebraska,0
+Nebraska,4
+Nebraska,394
+Nebraska,41
+Nebraska,55
+Nebraska,6
+Nebraska,10
+Nebraska,5
+Nebraska,36
+Nebraska,1
+Nebraska,8
+Nebraska,32
+Nebraska,17
+Nebraska,721
+Nebraska,17
+Nebraska,11
+Nebraska,11
+Nebraska,2
+Nebraska,560
+Nebraska,1612
+Nebraska,107
+Nebraska,265
+Nebraska,61
+Nebraska,8
+Nebraska,5
+Nebraska,5
+Nebraska,23
+Nebraska,22
+Nebraska,1
+Nebraska,181
+Nebraska,9
+Nebraska,79
+Nebraska,35
+Nebraska,9
+Nebraska,0
+Nebraska,61
+Nevada,36
+Nevada,33057
+Nevada,109
+Nevada,343
+Nevada,0
+Nevada,2
+Nevada,91
+Nevada,47
+Nevada,3
+Nevada,161
+Nevada,10
+Nevada,270
+Nevada,13
+Nevada,2
+Nevada,4242
+Nevada,11
+Nevada,260
+New Hampshire,98
+New Hampshire,76
+New Hampshire,80
+New Hampshire,14
+New Hampshire,99
+New Hampshire,3575
+New Hampshire,443
+New Hampshire,1562
+New Hampshire,310
+New Hampshire,38
+New Jersey,3161
+New Jersey,20099
+New Jersey,5490
+New Jersey,7888
+New Jersey,762
+New Jersey,3095
+New Jersey,19173
+New Jersey,2870
+New Jersey,19281
+New Jersey,1102
+New Jersey,7858
+New Jersey,17379
+New Jersey,9720
+New Jersey,7010
+New Jersey,10054
+New Jersey,17196
+New Jersey,841
+New Jersey,5082
+New Jersey,1256
+New Jersey,16351
+New Jersey,1295
+New Mexico,4005
+New Mexico,4
+New Mexico,229
+New Mexico,278
+New Mexico,11
+New Mexico,328
+New Mexico,0
+New Mexico,1838
+New Mexico,202
+New Mexico,59
+New Mexico,26
+New Mexico,1
+New Mexico,81
+New Mexico,431
+New Mexico,44
+New Mexico,16
+New Mexico,168
+New Mexico,3818
+New Mexico,6
+New Mexico,120
+New Mexico,28
+New Mexico,256
+New Mexico,95
+New Mexico,957
+New Mexico,2869
+New Mexico,36
+New Mexico,456
+New Mexico,21
+New Mexico,67
+New Mexico,74
+New Mexico,51
+New Mexico,14
+New Mexico,278
+New York,2369
+New York,72
+New York,0
+New York,930
+New York,147
+New York,134
+New York,210
+New York,156
+New York,191
+New York,114
+New York,497
+New York,77
+New York,93
+New York,4387
+New York,8135
+New York,54
+New York,42
+New York,267
+New York,258
+New York,272
+New York,6
+New York,211
+New York,113
+New York,0
+New York,33
+New York,161
+New York,388
+New York,4492
+New York,144
+New York,42765
+New York,222444
+New York,1395
+New York,1975
+New York,3326
+New York,333
+New York,10960
+New York,288
+New York,232
+New York,101
+New York,1394
+New York,0
+New York,668
+New York,0
+New York,13812
+New York,250
+New York,650
+New York,936
+New York,64
+New York,20
+New York,80
+New York,283
+New York,42621
+New York,1473
+New York,175
+New York,209
+New York,1909
+New York,288
+New York,251
+New York,236
+New York,35636
+New York,108
+New York,51
+North Carolina,1809
+North Carolina,225
+North Carolina,54
+North Carolina,267
+North Carolina,79
+North Carolina,65
+North Carolina,218
+North Carolina,190
+North Carolina,509
+North Carolina,992
+North Carolina,1248
+North Carolina,1360
+North Carolina,2028
+North Carolina,835
+North Carolina,48
+North Carolina,188
+North Carolina,168
+North Carolina,1574
+North Carolina,1124
+North Carolina,155
+North Carolina,72
+North Carolina,41
+North Carolina,735
+North Carolina,714
+North Carolina,529
+North Carolina,2106
+North Carolina,56
+North Carolina,163
+North Carolina,1457
+North Carolina,294
+North Carolina,1807
+North Carolina,5220
+North Carolina,473
+North Carolina,4343
+North Carolina,641
+North Carolina,2432
+North Carolina,34
+North Carolina,15
+North Carolina,1055
+North Carolina,264
+North Carolina,4412
+North Carolina,499
+North Carolina,932
+North Carolina,192
+North Carolina,1191
+North Carolina,219
+North Carolina,577
+North Carolina,35
+North Carolina,1399
+North Carolina,308
+North Carolina,2490
+North Carolina,44
+North Carolina,1037
+North Carolina,462
+North Carolina,589
+North Carolina,416
+North Carolina,407
+North Carolina,25
+North Carolina,192
+North Carolina,18079
+North Carolina,90
+North Carolina,514
+North Carolina,755
+North Carolina,794
+North Carolina,1950
+North Carolina,272
+North Carolina,628
+North Carolina,1127
+North Carolina,47
+North Carolina,278
+North Carolina,518
+North Carolina,50
+North Carolina,157
+North Carolina,1293
+North Carolina,121
+North Carolina,1810
+North Carolina,418
+North Carolina,2015
+North Carolina,375
+North Carolina,1778
+North Carolina,524
+North Carolina,1340
+North Carolina,203
+North Carolina,723
+North Carolina,202
+North Carolina,699
+North Carolina,86
+North Carolina,98
+North Carolina,80
+North Carolina,2287
+North Carolina,650
+North Carolina,9252
+North Carolina,212
+North Carolina,89
+North Carolina,203
+North Carolina,2152
+North Carolina,672
+North Carolina,1200
+North Carolina,430
+North Carolina,92
+North Dakota,0
+North Dakota,28
+North Dakota,32
+North Dakota,1
+North Dakota,7
+North Dakota,3
+North Dakota,11
+North Dakota,633
+North Dakota,2715
+North Dakota,25
+North Dakota,8
+North Dakota,1
+North Dakota,27
+North Dakota,6
+North Dakota,10
+North Dakota,3
+North Dakota,3
+North Dakota,555
+North Dakota,4
+North Dakota,4
+North Dakota,6
+North Dakota,5
+North Dakota,14
+North Dakota,1
+North Dakota,11
+North Dakota,11
+North Dakota,58
+North Dakota,16
+North Dakota,14
+North Dakota,187
+North Dakota,97
+North Dakota,3
+North Dakota,4
+North Dakota,21
+North Dakota,8
+North Dakota,26
+North Dakota,24
+North Dakota,8
+North Dakota,57
+North Dakota,13
+North Dakota,9
+North Dakota,4
+North Dakota,47
+North Dakota,3
+North Dakota,124
+North Dakota,6
+North Dakota,84
+North Dakota,4
+North Dakota,33
+North Dakota,85
+North Dakota,119
+North Dakota,12
+North Dakota,177
+Ohio,39
+Ohio,486
+Ohio,103
+Ohio,489
+Ohio,292
+Ohio,147
+Ohio,578
+Ohio,76
+Ohio,2230
+Ohio,90
+Ohio,77
+Ohio,951
+Ohio,671
+Ohio,119
+Ohio,1477
+Ohio,167
+Ohio,153
+Ohio,11015
+Ohio,271
+Ohio,88
+Ohio,977
+Ohio,390
+Ohio,970
+Ohio,64
+Ohio,14736
+Ohio,102
+Ohio,37
+Ohio,474
+Ohio,503
+Ohio,90
+Ohio,8071
+Ohio,148
+Ohio,140
+Ohio,14
+Ohio,78
+Ohio,83
+Ohio,98
+Ohio,297
+Ohio,311
+Ohio,49
+Ohio,162
+Ohio,95
+Ohio,837
+Ohio,162
+Ohio,808
+Ohio,91
+Ohio,1375
+Ohio,3742
+Ohio,259
+Ohio,2187
+Ohio,2805
+Ohio,709
+Ohio,20
+Ohio,379
+Ohio,599
+Ohio,89
+Ohio,3200
+Ohio,15
+Ohio,138
+Ohio,125
+Ohio,16
+Ohio,277
+Ohio,46
+Ohio,63
+Ohio,2290
+Ohio,43
+Ohio,586
+Ohio,114
+Ohio,165
+Ohio,461
+Ohio,212
+Ohio,240
+Ohio,110
+Ohio,88
+Ohio,96
+Ohio,1412
+Ohio,2712
+Ohio,1210
+Ohio,694
+Ohio,162
+Ohio,58
+Ohio,25
+Ohio,1307
+Ohio,171
+Ohio,418
+Ohio,96
+Ohio,648
+Ohio,74
+Oklahoma,205
+Oklahoma,1
+Oklahoma,48
+Oklahoma,33
+Oklahoma,27
+Oklahoma,24
+Oklahoma,259
+Oklahoma,236
+Oklahoma,717
+Oklahoma,231
+Oklahoma,182
+Oklahoma,148
+Oklahoma,1
+Oklahoma,1847
+Oklahoma,20
+Oklahoma,609
+Oklahoma,12
+Oklahoma,44
+Oklahoma,299
+Oklahoma,126
+Oklahoma,316
+Oklahoma,4
+Oklahoma,1
+Oklahoma,186
+Oklahoma,152
+Oklahoma,325
+Oklahoma,5
+Oklahoma,72
+Oklahoma,4
+Oklahoma,2
+Oklahoma,23
+Oklahoma,25
+Oklahoma,228
+Oklahoma,23
+Oklahoma,25
+Oklahoma,156
+Oklahoma,70
+Oklahoma,19
+Oklahoma,29
+Oklahoma,102
+Oklahoma,63
+Oklahoma,128
+Oklahoma,57
+Oklahoma,315
+Oklahoma,728
+Oklahoma,109
+Oklahoma,18
+Oklahoma,58
+Oklahoma,202
+Oklahoma,39
+Oklahoma,288
+Oklahoma,65
+Oklahoma,45
+Oklahoma,24
+Oklahoma,6762
+Oklahoma,242
+Oklahoma,257
+Oklahoma,233
+Oklahoma,86
+Oklahoma,560
+Oklahoma,100
+Oklahoma,115
+Oklahoma,237
+Oklahoma,46
+Oklahoma,3
+Oklahoma,488
+Oklahoma,102
+Oklahoma,111
+Oklahoma,130
+Oklahoma,1009
+Oklahoma,36
+Oklahoma,6744
+Oklahoma,507
+Oklahoma,505
+Oklahoma,12
+Oklahoma,15
+Oklahoma,23
+Oregon,16
+Oregon,132
+Oregon,1181
+Oregon,68
+Oregon,63
+Oregon,73
+Oregon,30
+Oregon,11
+Oregon,387
+Oregon,92
+Oregon,2
+Oregon,2
+Oregon,5
+Oregon,139
+Oregon,257
+Oregon,219
+Oregon,75
+Oregon,162
+Oregon,30
+Oregon,407
+Oregon,373
+Oregon,204
+Oregon,530
+Oregon,2238
+Oregon,208
+Oregon,3678
+Oregon,212
+Oregon,8
+Oregon,23
+Oregon,1462
+Oregon,385
+Oregon,18
+Oregon,132
+Oregon,2319
+Oregon,0
+Oregon,252
+Pennsylvania,424
+Pennsylvania,6670
+Pennsylvania,129
+Pennsylvania,1046
+Pennsylvania,109
+Pennsylvania,4889
+Pennsylvania,159
+Pennsylvania,69
+Pennsylvania,6513
+Pennsylvania,513
+Pennsylvania,182
+Pennsylvania,5
+Pennsylvania,335
+Pennsylvania,299
+Pennsylvania,4459
+Pennsylvania,70
+Pennsylvania,105
+Pennsylvania,105
+Pennsylvania,438
+Pennsylvania,114
+Pennsylvania,1058
+Pennsylvania,2466
+Pennsylvania,8003
+Pennsylvania,38
+Pennsylvania,813
+Pennsylvania,288
+Pennsylvania,7
+Pennsylvania,1109
+Pennsylvania,19
+Pennsylvania,91
+Pennsylvania,272
+Pennsylvania,185
+Pennsylvania,48
+Pennsylvania,120
+Pennsylvania,1823
+Pennsylvania,5122
+Pennsylvania,257
+Pennsylvania,1518
+Pennsylvania,4600
+Pennsylvania,3085
+Pennsylvania,279
+Pennsylvania,26
+Pennsylvania,276
+Pennsylvania,82
+Pennsylvania,1534
+Pennsylvania,9282
+Pennsylvania,86
+Pennsylvania,3669
+Pennsylvania,366
+Pennsylvania,98
+Pennsylvania,28874
+Pennsylvania,517
+Pennsylvania,20
+Pennsylvania,828
+Pennsylvania,85
+Pennsylvania,100
+Pennsylvania,10
+Pennsylvania,202
+Pennsylvania,33
+Pennsylvania,113
+Pennsylvania,53
+Pennsylvania,14
+Pennsylvania,603
+Pennsylvania,148
+Pennsylvania,1214
+Pennsylvania,53
+Pennsylvania,2067
+Rhode Island,290
+Rhode Island,1351
+Rhode Island,365
+Rhode Island,14033
+Rhode Island,574
+South Carolina,249
+South Carolina,1109
+South Carolina,132
+South Carolina,1519
+South Carolina,328
+South Carolina,231
+South Carolina,2663
+South Carolina,3177
+South Carolina,233
+South Carolina,9968
+South Carolina,379
+South Carolina,397
+South Carolina,565
+South Carolina,608
+South Carolina,617
+South Carolina,783
+South Carolina,462
+South Carolina,2246
+South Carolina,185
+South Carolina,457
+South Carolina,2194
+South Carolina,1033
+South Carolina,8832
+South Carolina,1056
+South Carolina,202
+South Carolina,7086
+South Carolina,381
+South Carolina,1066
+South Carolina,823
+South Carolina,1003
+South Carolina,404
+South Carolina,3849
+South Carolina,85
+South Carolina,419
+South Carolina,372
+South Carolina,607
+South Carolina,585
+South Carolina,1697
+South Carolina,1484
+South Carolina,6581
+South Carolina,366
+South Carolina,3252
+South Carolina,1877
+South Carolina,238
+South Carolina,671
+South Carolina,2571
+South Dakota,36
+South Dakota,574
+South Dakota,5
+South Dakota,13
+South Dakota,107
+South Dakota,369
+South Dakota,38
+South Dakota,105
+South Dakota,7
+South Dakota,1
+South Dakota,98
+South Dakota,16
+South Dakota,100
+South Dakota,108
+South Dakota,23
+South Dakota,11
+South Dakota,73
+South Dakota,20
+South Dakota,5
+South Dakota,47
+South Dakota,15
+South Dakota,10
+South Dakota,14
+South Dakota,24
+South Dakota,17
+South Dakota,6
+South Dakota,1
+South Dakota,14
+South Dakota,7
+South Dakota,15
+South Dakota,0
+South Dakota,78
+South Dakota,21
+South Dakota,3
+South Dakota,7
+South Dakota,39
+South Dakota,1
+South Dakota,8
+South Dakota,54
+South Dakota,24
+South Dakota,431
+South Dakota,84
+South Dakota,21
+South Dakota,6
+South Dakota,6
+South Dakota,60
+South Dakota,17
+South Dakota,11
+South Dakota,3907
+South Dakota,26
+South Dakota,132
+South Dakota,756
+South Dakota,4
+South Dakota,0
+South Dakota,62
+South Dakota,12
+South Dakota,17
+South Dakota,14
+South Dakota,1
+South Dakota,66
+South Dakota,19
+South Dakota,33
+South Dakota,166
+South Dakota,18
+South Dakota,91
+South Dakota,3
+Tennessee,335
+Tennessee,696
+Tennessee,33
+Tennessee,643
+Tennessee,663
+Tennessee,1284
+Tennessee,106
+Tennessee,78
+Tennessee,90
+Tennessee,225
+Tennessee,382
+Tennessee,126
+Tennessee,127
+Tennessee,39
+Tennessee,238
+Tennessee,221
+Tennessee,115
+Tennessee,276
+Tennessee,16695
+Tennessee,75
+Tennessee,184
+Tennessee,402
+Tennessee,383
+Tennessee,495
+Tennessee,46
+Tennessee,168
+Tennessee,330
+Tennessee,223
+Tennessee,92
+Tennessee,237
+Tennessee,74
+Tennessee,743
+Tennessee,4523
+Tennessee,39
+Tennessee,579
+Tennessee,238
+Tennessee,155
+Tennessee,206
+Tennessee,211
+Tennessee,75
+Tennessee,154
+Tennessee,31
+Tennessee,63
+Tennessee,90
+Tennessee,289
+Tennessee,52
+Tennessee,2578
+Tennessee,702
+Tennessee,268
+Tennessee,324
+Tennessee,22
+Tennessee,152
+Tennessee,443
+Tennessee,384
+Tennessee,178
+Tennessee,736
+Tennessee,530
+Tennessee,135
+Tennessee,173
+Tennessee,712
+Tennessee,61
+Tennessee,213
+Tennessee,1222
+Tennessee,34
+Tennessee,46
+Tennessee,191
+Tennessee,100
+Tennessee,53
+Tennessee,13
+Tennessee,79
+Tennessee,1275
+Tennessee,409
+Tennessee,156
+Tennessee,1184
+Tennessee,4828
+Tennessee,39
+Tennessee,68
+Tennessee,1174
+Tennessee,16966
+Tennessee,261
+Tennessee,48
+Tennessee,457
+Tennessee,2670
+Tennessee,840
+Tennessee,1548
+Tennessee,75
+Tennessee,59
+Tennessee,15
+Tennessee,248
+Tennessee,502
+Tennessee,159
+Tennessee,109
+Tennessee,138
+Tennessee,2648
+Tennessee,1688
+Texas,2062
+Texas,212
+Texas,1234
+Texas,111
+Texas,13
+Texas,3
+Texas,379
+Texas,169
+Texas,126
+Texas,54
+Texas,1056
+Texas,2
+Texas,268
+Texas,2875
+Texas,33555
+Texas,76
+Texas,0
+Texas,83
+Texas,649
+Texas,5068
+Texas,3442
+Texas,162
+Texas,9
+Texas,57
+Texas,299
+Texas,201
+Texas,361
+Texas,904
+Texas,277
+Texas,37
+Texas,6520
+Texas,175
+Texas,10
+Texas,96
+Texas,146
+Texas,756
+Texas,583
+Texas,14
+Texas,20
+Texas,9
+Texas,14
+Texas,7
+Texas,5614
+Texas,6
+Texas,216
+Texas,1406
+Texas,188
+Texas,20
+Texas,156
+Texas,472
+Texas,6
+Texas,65
+Texas,118
+Texas,37
+Texas,13
+Texas,158
+Texas,43439
+Texas,112
+Texas,486
+Texas,12
+Texas,5316
+Texas,442
+Texas,4
+Texas,61
+Texas,37
+Texas,109
+Texas,34
+Texas,2659
+Texas,18
+Texas,2129
+Texas,12297
+Texas,353
+Texas,78
+Texas,181
+Texas,309
+Texas,23
+Texas,63
+Texas,1
+Texas,6239
+Texas,70
+Texas,108
+Texas,382
+Texas,68
+Texas,7663
+Texas,82
+Texas,133
+Texas,6
+Texas,52
+Texas,499
+Texas,141
+Texas,880
+Texas,1122
+Texas,766
+Texas,1412
+Texas,974
+Texas,4
+Texas,49
+Texas,45
+Texas,10
+Texas,624
+Texas,59901
+Texas,527
+Texas,72
+Texas,25
+Texas,4045
+Texas,27
+Texas,444
+Texas,13126
+Texas,215
+Texas,143
+Texas,288
+Texas,137
+Texas,224
+Texas,104
+Texas,18
+Texas,898
+Texas,96
+Texas,4
+Texas,23
+Texas,159
+Texas,95
+Texas,7
+Texas,4622
+Texas,44
+Texas,449
+Texas,1085
+Texas,653
+Texas,171
+Texas,1317
+Texas,129
+Texas,3
+Texas,2
+Texas,279
+Texas,12
+Texas,0
+Texas,11
+Texas,283
+Texas,17
+Texas,483
+Texas,146
+Texas,54
+Texas,339
+Texas,510
+Texas,125
+Texas,125
+Texas,682
+Texas,129
+Texas,12
+Texas,106
+Texas,69
+Texas,0
+Texas,4656
+Texas,57
+Texas,31
+Texas,3575
+Texas,4
+Texas,208
+Texas,111
+Texas,35
+Texas,38
+Texas,513
+Texas,1390
+Texas,526
+Texas,16
+Texas,1656
+Texas,257
+Texas,10
+Texas,34
+Texas,37
+Texas,5294
+Texas,961
+Texas,68
+Texas,2
+Texas,793
+Texas,626
+Texas,30
+Texas,110
+Texas,9607
+Texas,63
+Texas,12
+Texas,784
+Texas,108
+Texas,252
+Texas,754
+Texas,277
+Texas,185
+Texas,533
+Texas,3263
+Texas,28
+Texas,29
+Texas,1355
+Texas,51
+Texas,13
+Texas,129
+Texas,99
+Texas,118
+Texas,6
+Texas,178
+Texas,610
+Texas,47
+Texas,280
+Texas,39
+Texas,142
+Texas,127
+Texas,492
+Texas,13
+Texas,33
+Texas,376
+Texas,17
+Texas,332
+Texas,35
+Texas,1960
+Texas,39
+Texas,1475
+Texas,18
+Texas,1
+Texas,4
+Texas,47
+Texas,69
+Texas,23536
+Texas,960
+Texas,2
+Texas,67
+Texas,2
+Texas,1087
+Texas,1690
+Texas,18394
+Texas,107
+Texas,50
+Texas,142
+Texas,13
+Texas,352
+Texas,964
+Texas,269
+Texas,2578
+Texas,2649
+Texas,318
+Texas,67
+Texas,426
+Texas,4276
+Texas,446
+Texas,28
+Texas,795
+Texas,27
+Texas,520
+Texas,5071
+Texas,379
+Texas,58
+Texas,250
+Texas,196
+Texas,55
+Texas,81
+Texas,115
+Texas,111
+Utah,0
+Utah,0
+Utah,0
+Utah,0
+Utah,0
+Utah,2468
+Utah,0
+Utah,0
+Utah,0
+Utah,0
+Utah,0
+Utah,0
+Utah,0
+Utah,0
+Utah,0
+Utah,0
+Utah,0
+Utah,17123
+Utah,550
+Utah,0
+Utah,0
+Utah,645
+Utah,448
+Utah,0
+Utah,6659
+Utah,497
+Utah,0
+Utah,0
+Utah,0
+Vermont,71
+Vermont,80
+Vermont,25
+Vermont,695
+Vermont,4
+Vermont,111
+Vermont,13
+Vermont,42
+Vermont,11
+Vermont,14
+Vermont,80
+Vermont,45
+Vermont,100
+Vermont,68
+Virginia,1057
+Virginia,647
+Virginia,56
+Virginia,60
+Virginia,66
+Virginia,55
+Virginia,2763
+Virginia,230
+Virginia,2
+Virginia,207
+Virginia,7
+Virginia,166
+Virginia,162
+Virginia,61
+Virginia,587
+Virginia,89
+Virginia,163
+Virginia,281
+Virginia,45
+Virginia,42
+Virginia,3564
+Virginia,64
+Virginia,11
+Virginia,912
+Virginia,60
+Virginia,10
+Virginia,172
+Virginia,72
+Virginia,15078
+Virginia,545
+Virginia,27
+Virginia,151
+Virginia,132
+Virginia,607
+Virginia,18
+Virginia,112
+Virginia,142
+Virginia,107
+Virginia,105
+Virginia,390
+Virginia,109
+Virginia,531
+Virginia,3112
+Virginia,413
+Virginia,3
+Virginia,288
+Virginia,464
+Virginia,32
+Virginia,110
+Virginia,67
+Virginia,23
+Virginia,52
+Virginia,4738
+Virginia,155
+Virginia,44
+Virginia,52
+Virginia,9
+Virginia,283
+Virginia,21
+Virginia,224
+Virginia,29
+Virginia,98
+Virginia,285
+Virginia,55
+Virginia,157
+Virginia,187
+Virginia,324
+Virginia,67
+Virginia,248
+Virginia,105
+Virginia,242
+Virginia,293
+Virginia,8265
+Virginia,61
+Virginia,36
+Virginia,319
+Virginia,377
+Virginia,51
+Virginia,836
+Virginia,35
+Virginia,30
+Virginia,655
+Virginia,74
+Virginia,205
+Virginia,1197
+Virginia,1151
+Virginia,30
+Virginia,238
+Virginia,54
+Virginia,340
+Virginia,118
+Virginia,187
+Virginia,58
+Virginia,78
+Virginia,237
+Virginia,2618
+Virginia,27
+Virginia,36
+Virginia,371
+Virginia,1850
+Virginia,168
+Virginia,7
+Virginia,214
+Virginia,154
+Virginia,74
+Virginia,54
+Virginia,96
+Virginia,302
+Virginia,305
+Virginia,772
+Virginia,1013
+Virginia,236
+Virginia,26
+Virginia,294
+Virginia,1544
+Virginia,478
+Virginia,145
+Virginia,1276
+Virginia,2389
+Virginia,5
+Virginia,374
+Virginia,30
+Virginia,1085
+Virginia,21
+Virginia,2643
+Virginia,679
+Virginia,116
+Virginia,122
+Virginia,797
+Virginia,2968
+Virginia,150
+Virginia,97
+Virginia,380
+Washington,318
+Washington,22
+Washington,2983
+Washington,818
+Washington,71
+Washington,1271
+Washington,10
+Washington,367
+Washington,576
+Washington,6
+Washington,2882
+Washington,2
+Washington,1004
+Washington,66
+Washington,219
+Washington,50
+Washington,13627
+Washington,423
+Washington,304
+Washington,85
+Washington,132
+Washington,6
+Washington,88
+Washington,506
+Washington,26
+Washington,26
+Washington,4003
+Washington,25
+Washington,712
+Washington,43
+Washington,4512
+Washington,2896
+Washington,48
+Washington,484
+Washington,6
+Washington,308
+Washington,807
+Washington,57
+Washington,9312
+West Virginia,26
+West Virginia,569
+West Virginia,61
+West Virginia,7
+West Virginia,40
+West Virginia,229
+West Virginia,5
+West Virginia,17
+West Virginia,0
+West Virginia,102
+West Virginia,13
+West Virginia,26
+West Virginia,80
+West Virginia,51
+West Virginia,68
+West Virginia,50
+West Virginia,143
+West Virginia,150
+West Virginia,274
+West Virginia,552
+West Virginia,25
+West Virginia,30
+West Virginia,49
+West Virginia,12
+West Virginia,143
+West Virginia,86
+West Virginia,30
+West Virginia,74
+West Virginia,78
+West Virginia,65
+West Virginia,767
+West Virginia,17
+West Virginia,22
+West Virginia,23
+West Virginia,181
+West Virginia,21
+West Virginia,6
+West Virginia,40
+West Virginia,114
+West Virginia,117
+West Virginia,111
+West Virginia,202
+West Virginia,3
+West Virginia,12
+West Virginia,2
+West Virginia,31
+West Virginia,7
+West Virginia,10
+West Virginia,34
+West Virginia,162
+West Virginia,2
+West Virginia,42
+West Virginia,6
+West Virginia,214
+West Virginia,11
+Wisconsin,54
+Wisconsin,11
+Wisconsin,82
+Wisconsin,14
+Wisconsin,3629
+Wisconsin,28
+Wisconsin,6
+Wisconsin,192
+Wisconsin,172
+Wisconsin,147
+Wisconsin,171
+Wisconsin,49
+Wisconsin,3633
+Wisconsin,584
+Wisconsin,75
+Wisconsin,77
+Wisconsin,74
+Wisconsin,409
+Wisconsin,5
+Wisconsin,458
+Wisconsin,51
+Wisconsin,256
+Wisconsin,118
+Wisconsin,49
+Wisconsin,54
+Wisconsin,37
+Wisconsin,37
+Wisconsin,449
+Wisconsin,80
+Wisconsin,2102
+Wisconsin,93
+Wisconsin,685
+Wisconsin,87
+Wisconsin,13
+Wisconsin,46
+Wisconsin,212
+Wisconsin,410
+Wisconsin,196
+Wisconsin,60
+Wisconsin,10
+Wisconsin,16777
+Wisconsin,163
+Wisconsin,129
+Wisconsin,53
+Wisconsin,858
+Wisconsin,422
+Wisconsin,29
+Wisconsin,136
+Wisconsin,88
+Wisconsin,303
+Wisconsin,16
+Wisconsin,2739
+Wisconsin,19
+Wisconsin,1228
+Wisconsin,13
+Wisconsin,346
+Wisconsin,247
+Wisconsin,19
+Wisconsin,118
+Wisconsin,419
+Wisconsin,34
+Wisconsin,242
+Wisconsin,46
+Wisconsin,20
+Wisconsin,983
+Wisconsin,8
+Wisconsin,608
+Wisconsin,2540
+Wisconsin,248
+Wisconsin,57
+Wisconsin,884
+Wisconsin,140
+Wyoming,75
+Wyoming,33
+Wyoming,96
+Wyoming,49
+Wyoming,30
+Wyoming,9
+Wyoming,438
+Wyoming,11
+Wyoming,14
+Wyoming,22
+Wyoming,392
+Wyoming,70
+Wyoming,182
+Wyoming,2
+Wyoming,94
+Wyoming,5
+Wyoming,40
+Wyoming,18
+Wyoming,201
+Wyoming,234
+Wyoming,224
+Wyoming,45
+Wyoming,4
+Alabama,0
+Alaska,0
+Arizona,0
+Arkansas,0
+California,0
+Colorado,0
+Connecticut,0
+Delaware,0
+District of Columbia,0
+Florida,0
+Georgia,13182
+Hawaii,22
+Idaho,0
+Illinois,3
+Indiana,0
+Iowa,0
+Kansas,0
+Kentucky,0
+Louisiana,0
+Maine,0
+Maryland,0
+Massachusetts,0
+Michigan,40
+Minnesota,0
+Mississippi,0
+Missouri,0
+Montana,0
+Nebraska,0
+Nevada,0
+New Hampshire,0
+New Jersey,0
+New Mexico,0
+New York,0
+North Carolina,0
+North Dakota,0
+Ohio,0
+Oklahoma,0
+Oregon,0
+Pennsylvania,0
+Puerto Rico,481
+Rhode Island,0
+South Carolina,0
+South Dakota,0
+Tennessee,2268
+Texas,0
+Utah,0
+Vermont,0
+Virginia,0
+Washington,0
+West Virginia,0
+Wisconsin,0
+Wyoming,0
+Diamond Princess,49
+Alabama,1400
+Alaska,0
+Arizona,0
+Arkansas,1266
+California,0
+Colorado,0
+Connecticut,230
+Delaware,161
+District of Columbia,0
+Florida,420
+Georgia,1917
+Hawaii,0
+Idaho,0
+Illinois,1213
+Indiana,0
+Iowa,13
+Kansas,0
+Kentucky,0
+Louisiana,9
+Maine,3
+Maryland,0
+Massachusetts,315
+Michigan,33
+Minnesota,122
+Mississippi,0
+Missouri,0
+Montana,0
+Nebraska,127
+Nevada,0
+New Hampshire,0
+New Jersey,682
+New Mexico,961
+New York,0
+North Carolina,0
+North Dakota,0
+Ohio,0
+Oklahoma,821
+Oregon,0
+Pennsylvania,0
+Puerto Rico,317
+Rhode Island,1449
+South Carolina,0
+South Dakota,0
+Tennessee,2707
+Texas,0
+Utah,0
+Vermont,7
+Virginia,0
+Washington,146
+West Virginia,0
+Wisconsin,0
+Wyoming,0
+Grand Princess,103
+Massachusetts,93
+Missouri,4102
+Michigan,4130
+Michigan,189
+Utah,1978
+Utah,312
+Utah,63
+Utah,2563
+Utah,123
+Utah,2149
