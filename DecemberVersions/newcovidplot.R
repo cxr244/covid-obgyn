@@ -17,7 +17,7 @@ suppressPackageStartupMessages(library("maps"))
 # Below has to be changed based on the location of the appropriate file on host computer 
 
 cases <- read_csv("C:/Chandru/CWRU/Research/CCF/COVIDProject/12-21-2020.csv")
-ophtho <- read_csv("C:/Chandru/CWRU/Research/CCF/COVIDProject/newVersionAAMCStateData.csv")
+ophtho <- read_csv("C:/Chandru/CWRU/Research/CCF/COVIDProject/OphthoDataFiles/newVersionAAMCStateData.csv")
 cards <- read_csv("C:/Chandru/CWRU/Research/CCF/COVIDProject/Cardiovascular Disease.csv")
 obgyn <- read_csv("C:/Chandru/CWRU/Research/CCF/COVIDProject/OBGyn.csv")
 
@@ -46,7 +46,7 @@ ggplot() +
 	#                   breaks = c(30,35,40,45), labels=c("30%","35%","40%", "45%"), na.value="black") +
 	# scale_fill_gradient(name = "Cardiologists (%) > 60", low = "antiquewhite1", high = "darkblue", 
 	#                   breaks = c(30,40,50,60), labels=c("30%","40%","50%", "60%"), na.value="black") +
-	scale_fill_gradient(name = "Obstetricians and Gynecologists (%) > 60", low = "antiquewhite1", high = "darkblue", 
+	scale_fill_gradient(name = "OB/GYN (%) > 60 y/o", low = "antiquewhite1", high = "darkblue", 
 	                  breaks = c(20,25,30,35,40,45,50,55), labels=c("20%","25%","30%", "35%", "40%", "45%", "50%", "55%"), na.value="black") +
 	geom_point(data = cases, 
 				 aes(x = long, y = lat, size = `Confirmed`),
@@ -59,7 +59,7 @@ ggplot() +
 	    panel.background = element_blank(),
 	    legend.key = element_rect(fill = "white")) +
 	labs(size = "COVID-19 Confirmed Cases (thousands)") +
-	scale_size_continuous(name = "COVID-19 Confirmed Cases (thousands)",
+	scale_size_continuous(name = "Cases (thousands)",
 		range = c(0,7),
 		breaks = c(100000,200000,300000),
 		labels = c("100-199", "200-299", "300+"))
