@@ -26,7 +26,8 @@ cases <- cases %>%
   filter(!(state %in% c("District of Columbia", "Puerto Rico"))) %>%
   rename(long = Long_) %>%
   rename(lat = Lat) %>%
-  mutate(LogCases = log10(`Confirmed`)) %>%
+  # mutate(LogCases = log10(`Confirmed`)) %>%
+  # mutate(LogWomenCases = log10('ConfirmedWomen')) %>%
   filter(`Confirmed` > 0) %>%
   filter(lat > 25 & lat < 50 & long > -130 & long < -65) 
 
@@ -48,9 +49,12 @@ ggplot() +
 	#                   breaks = c(30,40,50,60), labels=c("30%","40%","50%", "60%"), na.value="black") +
 	scale_fill_gradient(name = "OB/GYN (%) > 60 y/o", low = "antiquewhite1", high = "darkblue", 
 	                  breaks = c(20,25,30,35,40,45,50,55), labels=c("20%","25%","30%", "35%", "40%", "45%", "50%", "55%"), na.value="black") +
-	geom_point(data = cases, 
-				 aes(x = long, y = lat, size = `Confirmed`),
+		geom_point(data = cases, 
+				 aes(x = long, y = lat, size = `ConfirmedWomen`),
 	         colour = "firebrick2", alpha = 0.9, shape = 20) +
+	# geom_point(data = cases, 
+	# 			 aes(x = long, y = lat, size = `Confirmed`),
+	#          colour = "firebrick2", alpha = 0.9, shape = 20) +
 	# scale_fill_discrete(name="COVID-19 cases", labels = c("100-199k, 200-299k, 300k+")) + 
 	theme(axis.title = element_blank(),
 	    axis.text = element_blank(),
@@ -58,7 +62,6 @@ ggplot() +
 	    panel.grid = element_blank(),
 	    panel.background = element_blank(),
 	    legend.key = element_rect(fill = "white")) +
-	labs(size = "COVID-19 Confirmed Cases (thousands)") +
 	scale_size_continuous(name = "Cases (thousands)",
 		range = c(0,7),
 		breaks = c(100000,200000,300000),
