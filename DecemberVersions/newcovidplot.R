@@ -49,9 +49,37 @@ ggplot() +
 	#                   breaks = c(30,40,50,60), labels=c("30%","40%","50%", "60%"), na.value="black") +
 	scale_fill_gradient(name = "OB/GYN (%) > 60 y/o", low = "antiquewhite1", high = "darkblue", 
 	                  breaks = c(20,25,30,35,40,45,50,55), labels=c("20%","25%","30%", "35%", "40%", "45%", "50%", "55%"), na.value="black") +
-		geom_point(data = cases, 
-				 aes(x = long, y = lat, size = `ConfirmedWomen`),
-	         colour = "firebrick2", alpha = 0.9, shape = 20) +
+	geom_point(data = cases, 
+			 aes(x = long, y = lat, size = `ConfirmedWomen`),
+         colour = "firebrick2", alpha = 0.9, shape = 20) +
+	# geom_point(data = cases, 
+	# 			 aes(x = long, y = lat, size = `Confirmed`),
+	#          colour = "firebrick2", alpha = 0.9, shape = 20) +
+	# scale_fill_discrete(name="COVID-19 cases", labels = c("100-199k, 200-299k, 300k+")) + 
+	theme(axis.title = element_blank(),
+	    axis.text = element_blank(),
+	    axis.ticks = element_blank(),
+	    panel.grid = element_blank(),
+	    panel.background = element_blank(),
+	    legend.key = element_rect(fill = "white")) +
+	scale_size_continuous(name = "Cases (thousands)",
+		range = c(0,7),
+		breaks = c(100000,200000,300000),
+		labels = c("100-199", "200-299", "300+"))
+ggsave(filename = "BubbleMap.png", path = "C:/Chandru/CWRU/Research/CCF/COVIDProject/",
+       width = 8, height = 4)
+
+# Vaccination rates as gradtient 
+ggplot() +
+  # map w/ states colored by # `physicians over 60` per 100K population
+	geom_polygon(data = state_data,
+	           aes(x = long, y = lat, group = group, fill = VacRate),
+	           color = "black") +
+	scale_fill_gradient(name = "Vaccination Rate (%)", low = "antiquewhite1", high = "green", 
+	                  breaks = c(0.25,0.5,0.75,1,1.25,1.5), labels=c("0.25%","0.5%","0.75%", "1.00%", "1.25%", "1.5%"), na.value="black") +
+	geom_point(data = cases, 
+			 aes(x = long, y = lat, size = `ConfirmedWomen`),
+         colour = "firebrick2", alpha = 0.9, shape = 20) +
 	# geom_point(data = cases, 
 	# 			 aes(x = long, y = lat, size = `Confirmed`),
 	#          colour = "firebrick2", alpha = 0.9, shape = 20) +
@@ -68,7 +96,7 @@ ggplot() +
 		labels = c("100-199", "200-299", "300+"))
 
 
-
+		
 # ggplot() +
 #   # map w/ states colored by # `physicians over 60` per 100K population
 # 	geom_polygon(data = state_data,
@@ -87,8 +115,9 @@ ggplot() +
 # 	    legend.key = element_rect(fill = "white")) +
 # 	scale_size(range = c(0,3)) 
 
-ggsave(filename = "BubbleMap.png", path = "C:/Chandru/CWRU/Research/CCF/COVIDProject/",
+ggsave(filename = "BubbleMap2.png", path = "C:/Chandru/CWRU/Research/CCF/COVIDProject/",
        width = 8, height = 4)
+
 
 
 
