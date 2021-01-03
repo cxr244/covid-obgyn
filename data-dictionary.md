@@ -28,14 +28,6 @@ Latitude and longitude coordinates for US continental states
 * column 'Latitude': geographical longitude
 * column 'Longitude': geographical latitude
 
-## state_births.csv
-
-2018 total births per state reported by US Census Bureau
-* URL: https://www.cdc.gov/nchs/fastats/state-and-territorial-data.htm
-* format: comma separated values
-* column 'region': full name of U.S. state
-* column 'total_births': total births per state in 2018
-
 ## state_sex.csv
 
 2018 ratio of males to females per state reported by US Census Bureau
