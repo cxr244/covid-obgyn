@@ -1,4 +1,4 @@
-All data was downloaded from source URLs on 22 July 2020.
+All data was downloaded from source URLs on 21 December 2020.
 
 ## aamc-state-data.csv
 
@@ -17,7 +17,7 @@ Contains COVID-19 data obtained from John Hopkins University
 * URL: https://github.com/CSSEGISandData/COVID-19/
 * format: comma separated values
 * column 'Province_State': full name of U.S. state
-* column `6/21/2020`: cumulative cases of SARS-CoV-2 infection
+* column `12/21/2020`: cumulative cases of SARS-CoV-2 infection
 
 ## usa_lat_long.csv
 
