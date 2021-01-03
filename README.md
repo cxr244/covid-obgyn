@@ -1,19 +1,14 @@
-# Geographical impact of the COVID-19 pandemic on access to women’s health in the United States
+# Impact of the COVID-19 pandemic and OBGYN workforce distribution on vaccine deployment and predicting women's healthcare shortages
 
 [![HitCount](http://hits.dwyl.com/rrrlw/covid-obgyn.svg)](http://hits.dwyl.com/rrrlw/covid-obgyn)
 
 ## Purpose
 
-Obstetricians and gynecologists (OB/GYNs) are at a high risk of contracting COVID-19 from patients, which can cause a shortage of OB/GYNs and increase barriers to accessing women's health care.
-We identify which states in the U.S. are at risk of facing a shortage in OB/GYNs based on the geospatial heterogeneity in the spread of the COVID-19 pandemic and the age distribution of OB/GYNs across the United States.
-Predicting areas at high risk of shortage of women's health care professionals can guide the way to targeted prevention policies.
+Obstetricians and gynecologists, who serve a vital role in providing women’s healthcare in the United States, are at risk of COVID-19 exposure via asymptomatic patients and deliveries. COVID-19 may lead to OB/GYNs, particularly those over the age of 60, to retire at an earlier rate. While the future impact is unknown, this loss of physicians can exacerbate pre-existing barriers in women’s access to healthcare. This study analyzes state-level geographical distribution of COVID-19 cases and age distribution of OB/GYNs to project which U.S. regions experience a more significant COVID-19 patient burden and provides a guide for vaccine distribution in the OB/GYN workforce.
 
 ## Visualization
 
 <img src="BubbleMap.png" align="left" width="100%"/><br>
-
-States are shaded by proportion of OB/GYN physicians over 60 years of age (darker = more OB/GYNs > 60 yo).
-Red bubble radius is proportional to the number of confirmed COVID-19 cases as of 21 June 2020.
 
 ## Data dictionary
 
