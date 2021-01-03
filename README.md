@@ -15,8 +15,6 @@ Obstetricians and gynecologists, who serve a vital role in providing women’s h
 * **generate.R:** R script to generate a U.S. bubble choropleth.
 * **covid-confirmed.csv:** 
 * **aamc-state-data.csv:** 
-* **mega-table.csv:** 
-* **state_births.csv:** 
 * **state_sex.csv:** 
 * **usa_lat_long.csv:** 
 
