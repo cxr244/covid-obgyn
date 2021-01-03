@@ -8,7 +8,7 @@ Obstetricians and gynecologists, who serve a vital role in providing women’s h
 
 ## Visualization
 
-<img src="BubbleMap.png" align="left" width="100%"/><br>
+<img src="ElderlyOBGyn.png" align="left" width="100%"/><br>
 
 ## Data dictionary
 
